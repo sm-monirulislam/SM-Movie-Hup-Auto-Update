@@ -1,0 +1,49 @@
+name: "🎬 Auto Combine Movies (Language Based)"
+
+on:
+  push:
+    branches:
+      - main               # যখন ফাইল আপলোড বা পরিবর্তন হবে
+  schedule:
+    - cron: "*/30 * * * *" # প্রতি ৩০ মিনিটে (UTC)
+  workflow_dispatch: {}     # ম্যানুয়ালি চালানো যাবে
+
+permissions:
+  contents: write
+
+jobs:
+  combine_movies:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Combine all JSON files by language
+        run: |
+          echo "#EXTM3U" > combined_movies.m3u
+          
+          # প্রতিটি JSON ফাইল স্ক্যান করা
+          for file in static_movies*.json; do
+            if [ -f "$file" ]; then
+              echo "" >> combined_movies.m3u
+              echo "# ---- $(basename "$file") ----" >> combined_movies.m3u
+              
+              # Bangla movies
+              jq -r '.[] | select(.language=="Bangla") | "#EXTINF:-1 group-title=\"Movie Bangla\", " + .name + "\n" + .url' "$file" >> combined_movies.m3u
+              
+              # English movies
+              jq -r '.[] | select(.language=="English") | "#EXTINF:-1 group-title=\"Movie English\", " + .name + "\n" + .url' "$file" >> combined_movies.m3u
+              
+              # Other languages
+              jq -r '.[] | select(.language!="Bangla" and .language!="English") | "#EXTINF:-1 group-title=\"Movie Others\", " + .name + "\n" + .url' "$file" >> combined_movies.m3u
+            fi
+          done
+
+      - name: Commit and push updated M3U
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add combined_movies.m3u
+          git commit -m "🎬 Auto update combined_movies.m3u by language" || echo "No changes to commit"
+          git push
