@@ -27,7 +27,7 @@ jobs:
 
       - name: Unlock ZIP
         run: |
-          python unzipper.py
+          python decrypt.py
         env:
           ZIP_PASSWORD: ${{ secrets.ZIP_PASSWORD }}
 
