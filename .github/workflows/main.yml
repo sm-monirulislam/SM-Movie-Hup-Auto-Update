@@ -31,16 +31,18 @@ jobs:
         env:
           ZIP_PASSWORD: ${{ secrets.ZIP_PASSWORD }}
 
-      # ⭐ এখানে cd main খুব জরুরি
       - name: Run M3U Generator
         run: |
           cd main
           python generate_m3u.py
+          mv combined.m3u ../combined.m3u
+          cd ..
+          rm -rf main
 
       - name: Commit & Push output
         run: |
           git config --global user.name "Auto Bot"
           git config --global user.email "bot@example.com"
-          git add main/combined.m3u
+          git add combined.m3u
           git commit -m "Auto update combined M3U" || echo "No changes"
           git push
