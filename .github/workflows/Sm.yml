@@ -1,0 +1,46 @@
+name: 🎬 Auto M3U Generator (ZIP Protected)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/20 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          pip install requests
+
+      - name: Unlock ZIP
+        run: |
+          python unzipper.py
+        env:
+          ZIP_PASSWORD: ${{ secrets.ZIP_PASSWORD }}
+
+      # ⭐ এখানে cd main খুব জরুরি
+      - name: Run M3U Generator
+        run: |
+          cd main
+          python generate_m3u.py
+
+      - name: Commit & Push output
+        run: |
+          git config --global user.name "Auto Bot"
+          git config --global user.email "bot@example.com"
+          git add main/combined.m3u
+          git commit -m "Auto update combined M3U" || echo "No changes"
+          git push
