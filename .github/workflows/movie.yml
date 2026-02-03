@@ -2,8 +2,6 @@ name: 🎬 Auto Movie Playlist M3U Generator
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "*/20 * * * *"
 
 permissions:
   contents: write
