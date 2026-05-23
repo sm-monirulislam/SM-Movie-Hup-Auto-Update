@@ -1,0 +1,44 @@
+name: Fibwatch Latest Movies
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "*/30 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  fibwatch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Dependencies
+        run: |
+          pip install --upgrade pip
+          pip install cloudscraper beautifulsoup4 lxml
+
+      - name: Run Fibwatch Scraper
+        run: |
+          python New_Movie.py
+
+      - name: Commit Playlist
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add latest_movies.m3u
+
+          git commit -m "Updated Fibwatch Playlist" || echo "No changes"
+
+          git push
