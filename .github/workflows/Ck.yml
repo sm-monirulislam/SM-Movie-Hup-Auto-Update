@@ -1,42 +1,38 @@
-name: Fibwatch Latest Movies
+name: Bongo Free Data Scraper
 
 on:
   workflow_dispatch:
-
+  schedule:
+    - cron: "0 */6 * * *"
 
 permissions:
   contents: write
 
 jobs:
-  fibwatch:
+  scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 360
 
     steps:
-      - name: Checkout Repository
+      - name: 📥 Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - name: Install Dependencies
+      - name: 🛠 Install jq
         run: |
-          pip install --upgrade pip
-          pip install cloudscraper beautifulsoup4 lxml
+          sudo apt-get update
+          sudo apt-get install -y jq
 
-      - name: Run Fibwatch Scraper
+      - name: 🚀 Run Scraper Script
         run: |
-          python New_Movie.py
+          chmod +x scraper.sh
+          ./scraper.sh
 
-      - name: Commit Playlist
+      - name: 📤 Commit & Push JSON
         run: |
           git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add latest_movies.m3u
+          git add bongo_free_data.json
 
-          git commit -m "Updated Fibwatch Playlist" || echo "No changes"
+          git commit -m "Updated Bongo free data - $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
 
           git push
