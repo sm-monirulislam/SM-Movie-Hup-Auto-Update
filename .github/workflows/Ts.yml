@@ -28,7 +28,7 @@ jobs:
 
       - name: Run Scraper
         run: |
-          python fibwatch.py
+          python New_Movie.py
 
       - name: Commit Playlist
         run: |
