@@ -5,7 +5,7 @@ from datetime import datetime
 import concurrent.futures
 
 BASE_URL = "https://fibwatch.art"
-MAX_PAGES_TO_SCAN = 2000  # লেটেস্ট ক্যাটাগরির ২০০০ পেজ
+MAX_PAGES_TO_SCAN = 3000  # লেটেস্ট ক্যাটাগরির ৩০০০ পেজ
 
 # আপনার অরিজিনাল লিংক ভাঙার ফাংশন (একদম হুবহু)
 def process_movie(base_name, watch_link, quality, scraper, group_name):
@@ -77,10 +77,7 @@ def scan_single_page_latest(page_num, scraper):
             return []
 
         for link in set(watch_links):
-            full_link = (
-                link if link.startswith('http')
-                else f"{BASE_URL}{link}"
-            )
+            full_link = link if link.startswith('http') else f"{BASE_URL}{link}"
 
             base_name_match = re.search(
                 r'/watch/(.*?)(?:-\d{3,4}p_|_)',
@@ -105,7 +102,7 @@ def scan_single_page_latest(page_num, scraper):
 
 
 def run_latest_scraper(file_name, group_name):
-    print(f"\n🚀 Starting ULTRA-FAST Scraper for {group_name}...")
+    print(f"\n🚀 Starting ULTRA-FAST Scraper (70 Threads) for {group_name}...")
 
     scraper = cloudscraper.create_scraper(
         browser={
@@ -118,17 +115,13 @@ def run_latest_scraper(file_name, group_name):
     best_qualities = {}
     best_links = {}
 
-    print(f"⏳ Scanning up to {MAX_PAGES_TO_SCAN} pages CONCURRENTLY...")
+    print(f"⏳ Scanning up to {MAX_PAGES_TO_SCAN} pages CONCURRENTLY... Please wait!")
 
-    # 💥 স্টেজ ১: পেজ স্ক্যানিংয়ে মাল্টি-থ্রেডিং 💥
-    with concurrent.futures.ThreadPoolExecutor(max_workers=30) as executor:
+    # 💥 স্টেজ ১: পেজ স্ক্যানিংয়ে 70 থ্রেড 💥
+    with concurrent.futures.ThreadPoolExecutor(max_workers=70) as executor:
 
         future_to_page = {
-            executor.submit(
-                scan_single_page_latest,
-                p,
-                scraper
-            ): p
+            executor.submit(scan_single_page_latest, p, scraper): p
             for p in range(1, MAX_PAGES_TO_SCAN + 1)
         }
 
@@ -136,11 +129,9 @@ def run_latest_scraper(file_name, group_name):
             concurrent.futures.as_completed(future_to_page),
             1
         ):
-
             movies = future.result()
 
             for base_name, full_link, quality in movies:
-
                 current_best = best_qualities.get(base_name, 0)
 
                 if quality > current_best:
@@ -148,18 +139,15 @@ def run_latest_scraper(file_name, group_name):
                     best_links[base_name] = full_link
 
             if count % 100 == 0:
-                print(
-                    f"   [+] Scanned "
-                    f"{count}/{MAX_PAGES_TO_SCAN} pages..."
-                )
+                print(f"   [+] Scanned {count}/{MAX_PAGES_TO_SCAN} pages...")
 
     print(f"✅ Page scanning complete! Found {len(best_links)} UNIQUE movies.")
-    print("🎬 Starting extraction with 30 THREADS...")
+    print("🎬 Starting extraction with 70 THREADS...")
 
     results = []
 
-    # 💥 স্টেজ ২: মুভি লিংক ভাঙার মাল্টি-থ্রেডিং 💥
-    with concurrent.futures.ThreadPoolExecutor(max_workers=30) as executor:
+    # 💥 স্টেজ ২: মুভি লিংক ভাঙায় 70 থ্রেড 💥
+    with concurrent.futures.ThreadPoolExecutor(max_workers=70) as executor:
 
         future_to_movie = {
             executor.submit(
@@ -170,12 +158,10 @@ def run_latest_scraper(file_name, group_name):
                 scraper,
                 group_name
             ): b_name
-
             for b_name, w_link in best_links.items()
         }
 
         for future in concurrent.futures.as_completed(future_to_movie):
-
             b_name = future_to_movie[future]
 
             try:
@@ -188,23 +174,25 @@ def run_latest_scraper(file_name, group_name):
             except Exception:
                 pass
 
-    print(f"\n💾 Writing clean data to {file_name}...")
+    print(f"\n💾 Writing perfectly clean data to {file_name}...")
 
     with open(file_name, "w", encoding="utf-8") as f:
 
         f.write('#EXTM3U x-tvg-url=""\n')
-        f.write('# Playlist Generated Automatically\n')
+        f.write('# Playlist Generated Automatically by 70-Thread Automation\n')
 
         now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
         f.write(f'# Last Updated: {now}\n\n')
 
         for entry in results:
             f.write(entry)
 
-    print(f"🎉 Done! Playlist generated successfully.")
+    print(f"🎉 Done! Pure M3U Playlist generated without shortlinks for {group_name}.")
 
 
 def main():
+    # Latest ক্যাটাগরি স্ক্যান করবে
     run_latest_scraper(
         file_name="latest_movies.m3u",
         group_name="Fibwatch Latest"
