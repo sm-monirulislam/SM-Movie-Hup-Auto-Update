@@ -8,6 +8,7 @@ BASE_URL = "https://fibwatch.art"
 MAX_PAGES_TO_SCAN = 2500
 MAX_WORKERS = 70
 
+
 # =========================
 # Movie Link Extractor
 # =========================
@@ -22,6 +23,7 @@ def process_movie(base_name, watch_link, quality, scraper, group_name):
             href = a['href']
 
             if 'urlshortlink.top' in href and 'url=' in href:
+
                 match = re.search(r'url=(.*)', href)
 
                 if match:
@@ -39,6 +41,7 @@ def process_movie(base_name, watch_link, quality, scraper, group_name):
                 ('.mkv' in href or '.mp4' in href)
                 and 'urlshortlink.top' not in href
             ):
+
                 actual_link = href
 
                 if actual_link.startswith('/'):
@@ -49,9 +52,21 @@ def process_movie(base_name, watch_link, quality, scraper, group_name):
         if not actual_link:
             return None
 
+        # =========================
+        # Poster Processing
+        # =========================
         poster_tag = watch_soup.find('meta', property='og:image')
         poster = poster_tag['content'] if poster_tag else ""
 
+        # Remove https:// or http://
+        poster = re.sub(r'^https?://', '', poster)
+
+        # Add image proxy
+        poster = f"https://images.weserv.nl/?url={poster}"
+
+        # =========================
+        # File Name Cleanup
+        # =========================
         file_name = actual_link.split('/')[-1]
 
         file_name = re.sub(
@@ -70,10 +85,21 @@ def process_movie(base_name, watch_link, quality, scraper, group_name):
 
         file_name = file_name.replace('.', ' ').strip()
 
+        # =========================
+        # Add Referer
+        # =========================
+        final_link = (
+            f"{actual_link}"
+            f"|Referer=https://fibwatch.art/"
+        )
+
+        # =========================
+        # Create M3U Entry
+        # =========================
         m3u_entry = (
             f'#EXTINF:-1 tvg-logo="{poster}" '
             f'group-title="{group_name}", {file_name}\n'
-            f'{actual_link}\n'
+            f'{final_link}\n'
         )
 
         return m3u_entry
@@ -135,7 +161,6 @@ def scan_single_page_latest(page_num, scraper):
                 else 0
             )
 
-            # page_num সহ save করছি
             found_movies.append(
                 (page_num, base_name, full_link, quality)
             )
