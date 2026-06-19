@@ -37,7 +37,7 @@ def process_movie(base_name, watch_link, quality, scraper, group_name):
         poster_tag = watch_soup.find('meta', property='og:image')
         poster = poster_tag['content'] if poster_tag else ""
         
-        # 💥 আপডেট ১: নতুন ইমেজ প্রক্সি যুক্ত করা হলো 💥
+        # ইমেজ প্রক্সি (weserv.nl)
         if poster:
             poster = f"https://images.weserv.nl/?url={poster}"
         
@@ -46,10 +46,12 @@ def process_movie(base_name, watch_link, quality, scraper, group_name):
         file_name = re.sub(r'\.mkv|\.mp4', '', file_name, flags=re.IGNORECASE)
         file_name = file_name.replace('.', ' ').strip()
         
-        # ভিডিও লিংকের শেষে Referer যুক্ত করা হলো
-        final_video_link = f"{actual_link}|Referer=https://fibwatch.art/"
-        
-        m3u_entry = f'#EXTINF:-1 tvg-logo="{poster}" group-title="{group_name}", {file_name}\n{final_video_link}\n'
+        # 💥 আপডেট: EXTVLCOPT ফরম্যাটে Referer যোগ করা হলো 💥
+        m3u_entry = (
+            f'#EXTINF:-1 tvg-logo="{poster}" group-title="{group_name}", {file_name}\n'
+            f'#EXTVLCOPT:http-referrer=https://fibwatch.art/\n'
+            f'{actual_link}\n'
+        )
         return m3u_entry
         
     except Exception as e:
@@ -125,7 +127,6 @@ def run_latest_scraper(file_name, group_name):
 
     print(f"\n💾 Writing perfectly clean data to {file_name}...")
     with open(file_name, "w", encoding="utf-8") as f:
-        # 💥 আপডেট ৩: প্লেলিস্ট হেডার লেখা রিমুভ করে শুধুমাত্র মূল ট্যাগ রাখা হলো 💥
         f.write('#EXTM3U\n')
         
         for entry in results:
@@ -134,7 +135,6 @@ def run_latest_scraper(file_name, group_name):
     print(f"🎉 Done! Pure M3U Playlist generated without shortlinks for {group_name}.")
 
 def main():
-    # 💥 আপডেট ২: ফাইলের নাম পরিবর্তন করে All Movie.m3u করা হলো 💥
     run_latest_scraper(file_name="All Movie.m3u", group_name="Fibwatch Latest")
 
 if __name__ == "__main__":
