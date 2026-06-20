@@ -37,16 +37,16 @@ def process_movie(base_name, watch_link, quality, scraper, group_name):
         poster_tag = watch_soup.find('meta', property='og:image')
         poster = poster_tag['content'] if poster_tag else ""
         
-        # ইমেজ প্রক্সি (weserv.nl)
+        # 💥 আপডেট ১: নতুন ইমেজ প্রক্সি যুক্ত করা হলো 💥
         if poster:
-            poster = f"https://images.weserv.nl/?url={poster}"
+            poster = f"https://image.sm-monirulislam-exp.workers.dev/image?url={poster}"
         
         file_name = actual_link.split('/')[-1]
         file_name = re.sub(r'\[Fibwatch\.Com\]', '', file_name, flags=re.IGNORECASE)
         file_name = re.sub(r'\.mkv|\.mp4', '', file_name, flags=re.IGNORECASE)
         file_name = file_name.replace('.', ' ').strip()
         
-        # 💥 আপডেট: EXTVLCOPT ফরম্যাটে Referer যোগ করা হলো 💥
+        # EXTVLCOPT ফরম্যাটে Referer যোগ করা হলো
         m3u_entry = (
             f'#EXTINF:-1 tvg-logo="{poster}" group-title="{group_name}", {file_name}\n'
             f'#EXTVLCOPT:http-referrer=https://fibwatch.art/\n'
@@ -135,7 +135,8 @@ def run_latest_scraper(file_name, group_name):
     print(f"🎉 Done! Pure M3U Playlist generated without shortlinks for {group_name}.")
 
 def main():
-    run_latest_scraper(file_name="All Movie.m3u", group_name="Fibwatch Latest")
+    # 💥 আপডেট ২: গ্রুপ নেম পরিবর্তন করে "Latest Movie" করা হলো 💥
+    run_latest_scraper(file_name="All Movie.m3u", group_name="Latest Movie")
 
 if __name__ == "__main__":
     main()
