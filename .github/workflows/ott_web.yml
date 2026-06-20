@@ -2,7 +2,6 @@ name: OTT Web Scraper
 
 on:
   schedule:
-    # ⚡ প্রতি ১২ ঘণ্টা পর পর অটোমেটিক রান হবে (বাংলাদেশ সময় দুপুর ১২টা এবং রাত ১২টা)
     - cron: '0 */12 * * *'
   workflow_dispatch:
 
@@ -28,8 +27,10 @@ jobs:
         pip install cloudscraper beautifulsoup4
 
     - name: Fetch Python Script from Private Repo
+      env:
+        REPO_NAME: ${{ secrets.SECRET_REPO_NAME }}
       run: |
-        git clone https://${{ secrets.GH_PAT }}@github.com/sm-monirulislam/SM-Live-TV-Secret-Project-EXP.git private_code
+        git clone https://${{ secrets.GH_PAT }}@github.com/sm-monirulislam/$REPO_NAME.git private_code
         cp private_code/movie/ott_scraper.py ./
         rm -rf private_code
 
