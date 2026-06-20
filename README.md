@@ -8,6 +8,10 @@ GitHub Actions দিয়ে **auto movie M3U playlist** তৈরি করা �
 ## ✨ Features
 - ⚙️ Auto run via GitHub Actions
 - 📺 JSON + M3U → combined.m3u
+- 
+Playlist link :
+
+https://raw.githubusercontent.com/sm-monirulislam/SM-Movie-Hup-Auto-Update/refs/heads/main/Movie_Combined.m3u
 
 ---
 
