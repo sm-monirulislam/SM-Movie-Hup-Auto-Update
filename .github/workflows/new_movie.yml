@@ -1,4 +1,4 @@
-name: Public Latest Movie Scraper
+name: Latest Movie Scraper
 
 on:
   schedule:
