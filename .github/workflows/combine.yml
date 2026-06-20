@@ -25,6 +25,7 @@ jobs:
         run: |
           python << 'EOF'
           import os
+          from datetime import datetime, timezone, timedelta
 
           files = [
               "All Movie.m3u",
@@ -32,30 +33,51 @@ jobs:
               "sm_movie2.m3u"
           ]
 
+          playlist_lines = []
+          channel_count = 0
+
+          for file in files:
+              if not os.path.isfile(file):
+                  print(f"ERROR: File not found - {file}")
+                  continue
+
+              with open(file, "r", encoding="utf-8", errors="ignore") as f:
+                  lines = f.readlines()
+
+              if not lines:
+                  continue
+
+              start_idx = 1 if lines[0].strip() == "#EXTM3U" else 0
+
+              for line in lines[start_idx:]:
+                  playlist_lines.append(line.rstrip("\n"))
+
+                  if line.strip().startswith("#EXTINF"):
+                      channel_count += 1
+
+              print(f"Added: {file}")
+
+          bd_time = datetime.now(
+              timezone.utc
+          ).astimezone(
+              timezone(timedelta(hours=6))
+          ).strftime("%Y-%m-%d %H:%M:%S")
+
           with open("Movie_Combined.m3u", "w", encoding="utf-8") as out:
-              # প্রথমে একটি মাত্র #EXTM3U হেডার
               out.write("#EXTM3U\n")
+              out.write("#=================================\n")
+              out.write("#  Developed by: Monirul Islam\n")
+              out.write("#  Telegram: https://t.me/monirul_Islam_SM\n")
+              out.write(f"#  Last Updated: {bd_time} (BD Time)\n")
+              out.write(f"#  Channels Count: {channel_count}\n")
+              out.write("#  Usage: Personal / Educational\n")
+              out.write("#=================================\n\n")
 
-              for file in files:
-                  if not os.path.isfile(file):
-                      print(f"ERROR: File not found - {file}")
-                      continue
+              for line in playlist_lines:
+                  out.write(line + "\n")
 
-                  with open(file, "r", encoding="utf-8", errors="ignore") as f:
-                      lines = f.readlines()
-
-                  if not lines:
-                      continue
-
-                  # প্রথম লাইন #EXTM3U হলে সেটা স্কিপ করো, নয়তো পুরো ফাইল বসাও
-                  start_idx = 1 if lines[0].strip() == "#EXTM3U" else 0
-
-                  for line in lines[start_idx:]:
-                      out.write(line.rstrip('\n') + "\n")  # সব লাইন ঠিকভাবে বসবে
-
-                  print(f"Added: {file}")
-
-          print("Movie_Combined.m3u created successfully")
+          print(f"Movie_Combined.m3u created successfully")
+          print(f"Total Channels: {channel_count}")
           EOF
 
       - name: Commit & Push
