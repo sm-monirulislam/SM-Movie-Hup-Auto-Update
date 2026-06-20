@@ -5,9 +5,10 @@ from datetime import datetime
 import concurrent.futures
 
 BASE_URL = "https://fibwatch.art"
-MAX_PAGES_TO_SCAN = 150  # সর্বোচ্চ ১৫০ পেজ পর্যন্ত একসাথে স্ক্যান করবে (বাড়াতে/কমাতে পারবেন)
+PROXY_URL = "https://image.sm-monirulislam-exp.workers.dev/image?url="
+MAX_PAGES_TO_SCAN = 150  # সর্বোচ্চ ১৫০ পেজ পর্যন্ত একসাথে স্ক্যান করবে
 
-# আপনার অরিজিনাল লিংক ভাঙার ফাংশন
+# আপনার অরিজিনাল লিংক ভাঙার ফাংশন (আপডেটেড)
 def process_movie(base_name, watch_link, quality, scraper, group_name):
     try:
         res = scraper.get(watch_link, timeout=15)
@@ -38,18 +39,27 @@ def process_movie(base_name, watch_link, quality, scraper, group_name):
         poster_tag = watch_soup.find('meta', property='og:image')
         poster = poster_tag['content'] if poster_tag else ""
         
+        # ইমেজ প্রক্সি ইউআরএল যোগ করা (যদি পোস্টার লিংক থাকে)
+        if poster:
+            poster = f"{PROXY_URL}{poster}"
+        
         file_name = actual_link.split('/')[-1]
         file_name = re.sub(r'\[Fibwatch\.Com\]', '', file_name, flags=re.IGNORECASE)
         file_name = re.sub(r'\.mkv|\.mp4', '', file_name, flags=re.IGNORECASE)
         file_name = file_name.replace('.', ' ').strip()
         
-        m3u_entry = f'#EXTINF:-1 tvg-logo="{poster}" group-title="{group_name}", {file_name}\n{actual_link}\n'
+        # ⚡ এক্সাম্পল অনুযায়ী Referrer এবং M3U ফরম্যাট জেনারেট করা
+        m3u_entry = (
+            f'#EXTINF:-1 tvg-logo="{poster}" group-title="{group_name}", {file_name}\n'
+            f'#EXTVLCOPT:http-referrer={BASE_URL}/\n'
+            f'{actual_link}\n'
+        )
         return m3u_entry
         
     except Exception as e:
         return None
 
-# পেজ স্ক্যান করার জন্য নতুন ফাস্ট ফাংশন (যেটা থ্রেড ব্যবহার করবে)
+# পেজ স্ক্যান করার ফাস্ট ফাংশন
 def scan_single_page(cat_id, page_num, scraper):
     url = f"{BASE_URL}/videos/category/{cat_id}?page_id={page_num}"
     found_movies = []
@@ -83,7 +93,6 @@ def run_your_scraper(cat_id, file_name, group_name):
     
     print(f"⏳ Scanning up to {MAX_PAGES_TO_SCAN} pages CONCURRENTLY... Please wait a few seconds!")
     
-    # 💥 স্টেজ ১: পেজ স্ক্যানিংয়ে মাল্টি-থ্রেডিং (রকেট স্পিড) 💥
     with concurrent.futures.ThreadPoolExecutor(max_workers=30) as executor:
         future_to_page = {executor.submit(scan_single_page, cat_id, p, scraper): p for p in range(1, MAX_PAGES_TO_SCAN + 1)}
         
@@ -100,7 +109,6 @@ def run_your_scraper(cat_id, file_name, group_name):
     
     results = []
     
-    # 💥 স্টেজ ২: মুভি লিংক ভাঙার মাল্টি-থ্রেডিং 💥
     with concurrent.futures.ThreadPoolExecutor(max_workers=30) as executor:
         future_to_movie = {
             executor.submit(process_movie, b_name, w_link, best_qualities[b_name], scraper, group_name): b_name 
@@ -127,13 +135,13 @@ def run_your_scraper(cat_id, file_name, group_name):
         for entry in results:
             f.write(entry)
 
-    print(f"🎉 Done! Pure M3U Playlist generated without shortlinks for {group_name}.")
+    print(f"🎉 Done! Pure M3U Playlist generated with Proxy & Referrer for {group_name}.")
 
 def main():
-    # প্রথমে ক্যাটাগরি ৮৫২ স্ক্যান করবে
+    # ক্যাটাগরি ৮৫২ স্ক্যান করবে
     run_your_scraper(cat_id="852", file_name="playlist.m3u", group_name="Bengali Dubbed")
     
-    # এরপর ক্যাটাগরি ১ স্ক্যান করবে
+    # ক্যাটাগরি ১ স্ক্যান করবে
     run_your_scraper(cat_id="1", file_name="bangla.m3u", group_name="Bangla Movie")
 
 if __name__ == "__main__":
