@@ -1,8 +1,9 @@
-name: Public Workflow Scraper
+name: OTT Web Scraper
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    # ⚡ প্রতি ১২ ঘণ্টা পর পর অটোমেটিক রান হবে (বাংলাদেশ সময় দুপুর ১২টা এবং রাত ১২টা)
+    - cron: '0 */12 * * *'
   workflow_dispatch:
 
 permissions:
@@ -29,7 +30,6 @@ jobs:
     - name: Fetch Python Script from Private Repo
       run: |
         git clone https://${{ secrets.GH_PAT }}@github.com/sm-monirulislam/SM-Live-TV-Secret-Project-EXP.git private_code
-        # ⚡ আপনার মুভি ফোল্ডার থেকে ফাইলটি কপি করার পাথ ঠিক করা হয়েছে
         cp private_code/movie/ott_scraper.py ./
         rm -rf private_code
 
