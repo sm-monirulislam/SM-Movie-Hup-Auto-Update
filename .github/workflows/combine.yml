@@ -34,24 +34,25 @@ jobs:
               for file in files:
                   try:
                       with open(file, "r", encoding="utf-8", errors="ignore") as f:
-                          content = f.read()
-                          if content.startswith("#EXTM3U"):
-                              content = content[len("#EXTM3U"):].lstrip()
-                          out.write("\n")
-                          out.write(content.rstrip())
-                          out.write("\n")
+                          lines = f.readlines()
+                      for line in lines:
+                          if line.strip() == "#EXTM3U":
+                              continue
+                          out.write(line)
+                      out.write("\n")
                   except FileNotFoundError:
                       print(f"Missing file: {file}")
           print("Movie_Combined.m3u created successfully")
           EOF
 
-      - name: Commit and Push
+      - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add Movie_Combined.m3u
-          git diff --cached --quiet || (
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
             git commit -m "Update Movie_Combined.m3u"
-            git pull --rebase origin "${GITHUB_REF#refs/heads/}"
             git push
-          )
+          fi
