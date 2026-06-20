@@ -8,7 +8,7 @@ BASE_URL = "https://fibwatch.art"
 PROXY_URL = "https://image.sm-monirulislam-exp.workers.dev/image?url="
 MAX_PAGES_TO_SCAN = 150  # সর্বোচ্চ ১৫০ পেজ পর্যন্ত একসাথে স্ক্যান করবে
 
-# আপনার অরিজিনাল লিংক ভাঙার ফাংশন (আপডেটেড)
+# আপনার অরিজিনাল লিংক ভাঙার ফাংশন
 def process_movie(base_name, watch_link, quality, scraper, group_name):
     try:
         res = scraper.get(watch_link, timeout=15)
@@ -39,7 +39,7 @@ def process_movie(base_name, watch_link, quality, scraper, group_name):
         poster_tag = watch_soup.find('meta', property='og:image')
         poster = poster_tag['content'] if poster_tag else ""
         
-        # ইমেজ প্রক্সি ইউআরএল যোগ করা (যদি পোস্টার লিংক থাকে)
+        # ইমেজ প্রক্সি ইউআরএল যোগ করা
         if poster:
             poster = f"{PROXY_URL}{poster}"
         
@@ -48,7 +48,7 @@ def process_movie(base_name, watch_link, quality, scraper, group_name):
         file_name = re.sub(r'\.mkv|\.mp4', '', file_name, flags=re.IGNORECASE)
         file_name = file_name.replace('.', ' ').strip()
         
-        # ⚡ এক্সাম্পল অনুযায়ী Referrer এবং M3U ফরম্যাট জেনারেট করা
+        # Referrer এবং M3U ফরম্যাট
         m3u_entry = (
             f'#EXTINF:-1 tvg-logo="{poster}" group-title="{group_name}", {file_name}\n'
             f'#EXTVLCOPT:http-referrer={BASE_URL}/\n'
@@ -127,22 +127,20 @@ def run_your_scraper(cat_id, file_name, group_name):
 
     print(f"\n💾 Writing perfectly clean data to {file_name}...")
     with open(file_name, "w", encoding="utf-8") as f:
-        f.write('#EXTM3U x-tvg-url=""\n')
-        f.write('# Playlist Generated Automatically by Double-Threaded Automation\n')
-        now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        f.write(f'# Last Updated: {now}\n\n')
+        # ⚡ রিকোয়েস্ট অনুযায়ী হেডার ক্লিন করা হয়েছে (শুধু #EXTM3U থাকবে)
+        f.write('#EXTM3U\n')
         
         for entry in results:
             f.write(entry)
 
-    print(f"🎉 Done! Pure M3U Playlist generated with Proxy & Referrer for {group_name}.")
+    print(f"🎉 Done! Pure M3U Playlist generated for {group_name}.")
 
 def main():
-    # ক্যাটাগরি ৮৫২ স্ক্যান করবে
-    run_your_scraper(cat_id="852", file_name="playlist.m3u", group_name="Bengali Dubbed")
+    # ১. ক্যাটাগরি ৮৫২ স্ক্যান করে sm_movie2.m3u ফাইল তৈরি করবে
+    run_your_scraper(cat_id="852", file_name="sm_movie2.m3u", group_name="Bengali Dubbed")
     
-    # ক্যাটাগরি ১ স্ক্যান করবে
-    run_your_scraper(cat_id="1", file_name="bangla.m3u", group_name="Bangla Movie")
+    # ২. ক্যাটাগরি ১ স্ক্যান করে Ott_Bnagla.m3u ফাইল তৈরি করবে
+    run_your_scraper(cat_id="1", file_name="Ott_Bnagla.m3u", group_name="Bangla Movie")
 
 if __name__ == "__main__":
     main()
