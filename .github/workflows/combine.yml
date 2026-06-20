@@ -24,24 +24,37 @@ jobs:
       - name: Combine Playlists
         run: |
           python << 'EOF'
+          import os
+
           files = [
               "All Movie.m3u",
               "Ott_Bnagla.m3u",
               "sm_movie2.m3u"
           ]
+
           with open("Movie_Combined.m3u", "w", encoding="utf-8") as out:
+              # প্রথমে একটি মাত্র #EXTM3U হেডার
               out.write("#EXTM3U\n")
+
               for file in files:
-                  try:
-                      with open(file, "r", encoding="utf-8", errors="ignore") as f:
-                          lines = f.readlines()
-                      for line in lines:
-                          if line.strip() == "#EXTM3U":
-                              continue
-                          out.write(line)
-                      out.write("\n")
-                  except FileNotFoundError:
-                      print(f"Missing file: {file}")
+                  if not os.path.isfile(file):
+                      print(f"ERROR: File not found - {file}")
+                      continue
+
+                  with open(file, "r", encoding="utf-8", errors="ignore") as f:
+                      lines = f.readlines()
+
+                  if not lines:
+                      continue
+
+                  # প্রথম লাইন #EXTM3U হলে সেটা স্কিপ করো, নয়তো পুরো ফাইল বসাও
+                  start_idx = 1 if lines[0].strip() == "#EXTM3U" else 0
+
+                  for line in lines[start_idx:]:
+                      out.write(line.rstrip('\n') + "\n")  # সব লাইন ঠিকভাবে বসবে
+
+                  print(f"Added: {file}")
+
           print("Movie_Combined.m3u created successfully")
           EOF
 
