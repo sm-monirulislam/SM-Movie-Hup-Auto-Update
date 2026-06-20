@@ -35,14 +35,13 @@ jobs:
     - name: Run Scraper Script
       run: python scraper.py
 
-    # ৫. নতুন জেনারেট হওয়া M3U ফাইল গিটহাবে পুশ/আপডেট করা
+        # ৫. নতুন জেনারেট হওয়া M3U ফাইল গিটহাবে পুশ/আপডেট করা
     - name: Commit and Push Changes
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         
-        # ফাইল দুটি গিট ট্র্যাকিংয়ে অ্যাড করা
-        git add playlist.m3u bangla.m3u
+        # নতুন ফাইল নেম ট্র্যাক করা হলো
+        git add sm_movie2.m3u Ott_Bnagla.m3u
         
-        # যদি ফাইলে কোনো পরিবর্তন না থাকে তবে এরর এড়ানোর কন্ডিশন
         git diff --quiet && git diff --staged --quiet || (git commit -m "⚡ Auto-updated M3U Playlists [$(date)]" && git push)
