@@ -1,0 +1,57 @@
+name: Movie Combined Playlist
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  combine:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Combine Playlists
+        run: |
+          python << 'EOF'
+          files = [
+              "All Movie.m3u",
+              "Ott_Bnagla.m3u",
+              "sm_movie2.m3u"
+          ]
+          with open("Movie_Combined.m3u", "w", encoding="utf-8") as out:
+              out.write("#EXTM3U\n")
+              for file in files:
+                  try:
+                      with open(file, "r", encoding="utf-8", errors="ignore") as f:
+                          content = f.read()
+                          if content.startswith("#EXTM3U"):
+                              content = content[len("#EXTM3U"):].lstrip()
+                          out.write("\n")
+                          out.write(content.rstrip())
+                          out.write("\n")
+                  except FileNotFoundError:
+                      print(f"Missing file: {file}")
+          print("Movie_Combined.m3u created successfully")
+          EOF
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Movie_Combined.m3u
+          git diff --cached --quiet || (
+            git commit -m "Update Movie_Combined.m3u"
+            git pull --rebase origin "${GITHUB_REF#refs/heads/}"
+            git push
+          )
