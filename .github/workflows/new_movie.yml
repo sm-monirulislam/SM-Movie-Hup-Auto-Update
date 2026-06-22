@@ -8,45 +8,70 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: movie-playlist-update
+  cancel-in-progress: false
+
 jobs:
   scrape_and_commit:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout Public Repository
-      uses: actions/checkout@v4
-      with:
-        fetch-depth: 0
+      - name: Checkout Public Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-    - name: Set up Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.10'
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
 
-    - name: Install Dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install cloudscraper beautifulsoup4
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install cloudscraper beautifulsoup4
 
-    - name: Fetch Python Script from Private Repo
-      env:
-        REPO_NAME: ${{ secrets.SECRET_REPO_NAME }}
-      run: |
-        git clone https://${{ secrets.GH_PAT }}@github.com/sm-monirulislam/$REPO_NAME.git private_code
-        cp private_code/movie/New_Movie.py ./
-        rm -rf private_code
+      - name: Fetch Python Script from Private Repo
+        env:
+          REPO_NAME: ${{ secrets.SECRET_REPO_NAME }}
+        run: |
+          git clone https://${{ secrets.GH_PAT }}@github.com/sm-monirulislam/$REPO_NAME.git private_code
+          cp private_code/movie/New_Movie.py ./
+          rm -rf private_code
 
-    - name: Run Scraper Script
-      run: python New_Movie.py
+      - name: Run Scraper Script
+        id: scraper
+        run: python New_Movie.py
+        # স্ক্রিপ্ট ফেল করলে পরবর্তী স্টেপগুলো স্কিপ হবে
 
-    - name: Clean up Python Script
-      run: rm -f New_Movie.py
+      - name: Clean Up Python Script
+        run: rm -f New_Movie.py
 
-    - name: Commit and Push M3U Files
-      run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+      - name: Commit and Push M3U Files
+        shell: bash
+        run: |
+          # ফাইলটি আছে কিনা চেক করুন
+          if [ ! -f "All Movie.m3u" ]; then
+            echo "All Movie.m3u not found, skipping commit."
+            exit 0
+          fi
 
-        git add "All Movie.m3u"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-        if git
+          git add "All Movie.m3u"
+
+          # কোনো পরিবর্তন না থাকলে চুপচাপ প্রস্থান
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "Auto Update Movie Playlist"
+
+          # রিমোটের নতুন পরিবর্তনগুলো নিয়ে আসুন (--autostash দিয়ে লোকাল পরিবর্তন সংরক্ষণ)
+          git pull --rebase --autostash origin main
+
+          # পুশ করুন
+          git push origin main
