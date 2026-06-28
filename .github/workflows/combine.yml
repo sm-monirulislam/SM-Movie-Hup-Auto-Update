@@ -2,7 +2,7 @@ name: Movie Combined Playlist
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */4 * * *"
   workflow_dispatch:
 
 permissions:
@@ -76,18 +76,11 @@ jobs:
               for line in playlist_lines:
                   out.write(line + "\n")
 
-          print(f"Movie_Combined.m3u created successfully")
+          print("Movie_Combined.m3u created successfully")
           print(f"Total Channels: {channel_count}")
           EOF
 
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add Movie_Combined.m3u
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "Update Movie_Combined.m3u"
-            git push
-          fi
+          git config user.email "41898282
