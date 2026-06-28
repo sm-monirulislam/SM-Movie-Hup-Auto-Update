@@ -57,9 +57,7 @@ jobs:
 
               print(f"Added: {file}")
 
-          bd_time = datetime.now(
-              timezone.utc
-          ).astimezone(
+          bd_time = datetime.now(timezone.utc).astimezone(
               timezone(timedelta(hours=6))
           ).strftime("%Y-%m-%d %H:%M:%S")
 
@@ -82,5 +80,18 @@ jobs:
 
       - name: Commit & Push
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add Movie_Combined.m3u
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "Update Movie_Combined.m3u"
+
+          git pull --rebase --autostash origin main
+
+          git push origin main
