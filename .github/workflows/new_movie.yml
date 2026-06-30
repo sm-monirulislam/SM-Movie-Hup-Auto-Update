@@ -1,8 +1,8 @@
-name: Latest Movie Scraper
+Name: Latest Movie Scraper
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 */3 * * *'  # প্রতি ৩ ঘণ্টা পর পর রান হবে
   workflow_dispatch:
 
 permissions:
@@ -43,7 +43,6 @@ jobs:
       - name: Run Scraper Script
         id: scraper
         run: python New_Movie.py
-        # স্ক্রিপ্ট ফেল করলে পরবর্তী স্টেপগুলো স্কিপ হবে
 
       - name: Clean Up Python Script
         run: rm -f New_Movie.py
@@ -51,7 +50,6 @@ jobs:
       - name: Commit and Push M3U Files
         shell: bash
         run: |
-          # ফাইলটি আছে কিনা চেক করুন
           if [ ! -f "All Movie.m3u" ]; then
             echo "All Movie.m3u not found, skipping commit."
             exit 0
@@ -62,7 +60,6 @@ jobs:
 
           git add "All Movie.m3u"
 
-          # কোনো পরিবর্তন না থাকলে চুপচাপ প্রস্থান
           if git diff --cached --quiet; then
             echo "No changes to commit"
             exit 0
@@ -70,8 +67,6 @@ jobs:
 
           git commit -m "Auto Update Movie Playlist"
 
-          # রিমোটের নতুন পরিবর্তনগুলো নিয়ে আসুন (--autostash দিয়ে লোকাল পরিবর্তন সংরক্ষণ)
           git pull --rebase --autostash origin main
 
-          # পুশ করুন
           git push origin main
