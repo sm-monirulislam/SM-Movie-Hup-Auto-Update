@@ -1,8 +1,8 @@
-name: OTT Web Scraper
+Name: OTT Web Scraper
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 */3 * * *'  # প্রতি ৩ ঘণ্টা পর পর রান হবে
   workflow_dispatch:
 
 permissions:
