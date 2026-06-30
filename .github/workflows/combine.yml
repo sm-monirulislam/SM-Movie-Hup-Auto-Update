@@ -1,8 +1,8 @@
-name: Movie Combined Playlist
+Name: Movie Combined Playlist
 
 on:
   schedule:
-    - cron: "0 */4 * * *"
+    - cron: "0 */2 * * *"  # প্রতি ২ ঘণ্টা পর পর রান হবে
   workflow_dispatch:
 
 permissions:
