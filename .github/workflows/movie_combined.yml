@@ -1,0 +1,89 @@
+name: Movie Combined Playlist
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  combine:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Combine Playlists
+        run: |
+          python << 'EOF'
+          import os
+          from datetime import datetime, timezone, timedelta
+
+          files = [
+              "All Movie.m3u",
+              "Ott_Bnagla.m3u",
+              "sm_movie2.m3u"
+          ]
+
+          playlist_lines = []
+          channel_count = 0
+
+          for file in files:
+              if not os.path.isfile(file):
+                  print(f"Warning: File not found - {file}")
+                  continue
+
+              with open(file, "r", encoding="utf-8", errors="ignore") as f:
+                  lines = f.readlines()
+
+              if not lines:
+                  continue
+
+              start_idx = 1 if lines[0].strip() == "#EXTM3U" else 0
+
+              for line in lines[start_idx:]:
+                  playlist_lines.append(line.rstrip("\n"))
+                  if line.strip().startswith("#EXTINF"):
+                      channel_count += 1
+
+          bd_time = datetime.now(timezone.utc).astimezone(
+              timezone(timedelta(hours=6))
+          ).strftime("%Y-%m-%d %H:%M:%S")
+
+          with open("Movie_Combined.m3u", "w", encoding="utf-8") as out:
+              out.write("#EXTM3U\n")
+              out.write("#=================================\n")
+              out.write("#  Developed by: Monirul Islam\n")
+              out.write("#  Telegram: https://t.me/monirul_Islam_SM\n")
+              out.write(f"#  Last Updated: {bd_time} (BD Time)\n")
+              out.write(f"#  Channels Count: {channel_count}\n")
+              out.write("#=================================\n\n")
+
+              for line in playlist_lines:
+                  out.write(line + "\n")
+
+          print("Movie_Combined.m3u created successfully")
+          EOF
+
+      - name: Commit & Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add Movie_Combined.m3u
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "🎬 Auto Update Movie_Combined.m3u [$(date '+%Y-%m-%d %H:%M:%S UTC')]"
+          git push
