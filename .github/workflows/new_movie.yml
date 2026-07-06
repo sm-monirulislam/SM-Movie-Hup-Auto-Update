@@ -49,15 +49,17 @@ jobs:
       - name: Commit and Push M3U Files
         shell: bash
         run: |
-          if [ ! -f "All Movie.m3u" ]; then
-            echo "All Movie.m3u not found, skipping commit."
+          # [Fixed] ফাইল নেম পরিবর্তন করে পাইথন স্ক্রিপ্টের সাথে মিল রেখে latest_movies.m3u করা হলো
+          if [ ! -f "latest_movies.m3u" ]; then
+            echo "latest_movies.m3u not found, skipping commit."
             exit 0
           fi
 
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add "All Movie.m3u"
+          # সুনির্দিষ্টভাবে শুধু m3u ফাইলটি যোগ করা হচ্ছে যাতে ডিলিট হওয়া New_Movie.py গিটে পুশ না হয়
+          git add "latest_movies.m3u"
 
           if git diff --cached --quiet; then
             echo "No changes to commit."
