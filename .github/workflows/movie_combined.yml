@@ -28,7 +28,7 @@ jobs:
           from datetime import datetime, timezone, timedelta
 
           files = [
-              "All Movie.m3u",
+              "latest_movies.m3u",
               "Ott_Bnagla.m3u",
               "sm_movie2.m3u"
           ]
