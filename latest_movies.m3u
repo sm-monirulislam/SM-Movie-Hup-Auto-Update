@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-monirulislam-exp.workers.dev/image?url=https://artghn.b-cdn.net/upload/photos/2026/07/Pritam.and.Pedro.S01.jpg" group-title="Latest Movie", Pritam and Pedro S01E01-06 Dual 480p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://artghn.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Pritam.and.Pedro.S01E01-06.Dual.480p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-monirulislam-exp.workers.dev/image?url=https://artghn.b-cdn.net/upload/photos/2026/07/Passenger_Hindi_Dubbed.jpg" group-title="Latest Movie", Passenger 2026 Dual 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://artghn.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Passenger.2026.Dual.1080p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-monirulislam-exp.workers.dev/image?url=https://artghn.b-cdn.net/upload/photos/2026/07/Ab.Hoga.Hisaab.S02.jpg" group-title="Latest Movie", Ab Hoga Hisaab S02 720p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://artghn.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Ab.Hoga.Hisaab.S02.720p.mkv
