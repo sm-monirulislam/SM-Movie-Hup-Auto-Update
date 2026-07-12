@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-monirulislam-exp.workers.dev/image?url=https://eghbf.b-cdn.net/upload/photos/2026/07/Dadagiri.Unlimited.jpg" group-title="Latest Movie", Dadagiri Unlimited S11E02 1080P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://eghbf.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Dadagiri.Unlimited.S11E02.1080P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-monirulislam-exp.workers.dev/image?url=https://eghbf.b-cdn.net/upload/photos/2025/10/Indian.Idol.jpg" group-title="Latest Movie", Indian Idol (2025) S16E77 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://eghbf.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Indian.Idol.(2025).S16E77.1080p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-monirulislam-exp.workers.dev/image?url=https://eghbf.b-cdn.net/upload/photos/2026/07/Little.House.on.the.Prairie.(2026).S01.jpg" group-title="Latest Movie", Little House on the Prairie S01 Dual 480p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://eghbf.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Little.House.on.the.Prairie.S01.Dual.480p.mkv
