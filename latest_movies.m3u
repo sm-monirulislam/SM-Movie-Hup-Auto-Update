@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-monirulislam-exp.workers.dev/image?url=https://ityhm.b-cdn.net/upload/photos/2026/03/Wuthering.Heights.2026.jpg" group-title="Latest Movie", Wuthering Heights (2026) Dual 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://ityhm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Wuthering.Heights.(2026).Dual.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-monirulislam-exp.workers.dev/image?url=https://ityhm.b-cdn.net/upload/photos/2026/07/Is.God.Is.(2026).Hindi.Dubbed.jpg" group-title="Latest Movie", Is God Is (2026) Dual 480p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://ityhm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Is.God.Is.(2026).Dual.480p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-monirulislam-exp.workers.dev/image?url=https://ityhm.b-cdn.net/upload/photos/2026/06/See.You.at.Work.Tomorrow.jpg" group-title="Latest Movie", See You at Work Tomorrow S01E07 Dual 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://ityhm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]See.You.at.Work.Tomorrow.S01E07.Dual.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-monirulislam-exp.workers.dev/image?url=https://ityhm.b-cdn.net/upload/photos/2025/11/Laughter.Chefs.Unlimited.Entertainment.S03.jpg" group-title="Latest Movie", Laughter Chefs Unlimited Entertainment S03E67 Hindi 720P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://ityhm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Laughter.Chefs.Unlimited.Entertainment.S03E67.Hindi.720P.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-monirulislam-exp.workers.dev/image?url=https://ityhm.b-cdn.net/upload/photos/2025/10/Indian.Idol.jpg" group-title="Latest Movie", Indian Idol (2025) S16E78 720p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://ityhm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Indian.Idol.(2025).S16E78.720p.mkv
