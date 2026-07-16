@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-monirulislam-exp.workers.dev/image?url=https://srthjkk.b-cdn.net/upload/photos/2026/07/Aajo.Ardhangini.(2026).Bengali.jpg" group-title="Latest Movie", Aajo Ardhangini 2026 Bangla HDTC 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://srthjkk.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Aajo.Ardhangini.2026.Bangla.HDTC.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-monirulislam-exp.workers.dev/image?url=https://srthjkk.b-cdn.net/upload/photos/2026/06/backrooms-movie.jpg" group-title="Latest Movie", Bakcrooms 2026 English 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://srthjkk.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Bakcrooms.2026.English.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-monirulislam-exp.workers.dev/image?url=https://srthjkk.b-cdn.net/upload/photos/2026/06/Alliance.S01.Hindi.jpg" group-title="Latest Movie", Alliance (2026) S01E21 Hindi 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://srthjkk.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E21.Hindi.720p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-monirulislam-exp.workers.dev/image?url=https://srthjkk.b-cdn.net/upload/photos/2026/07/Aajo.Ardhangini.(2026).Bengali.jpg" group-title="Latest Movie", Aajo Ardhangini 2026 Bangla HDTC 480p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://srthjkk.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Aajo.Ardhangini.2026.Bangla.HDTC.480p.mkv
