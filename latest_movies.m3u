@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-monirulislam-exp.workers.dev/image?url=https://efghjnm.b-cdn.net/upload/photos/2026/06/Alliance.S01.Hindi.jpg" group-title="Latest Movie", Alliance (2026) S01E24 Hindi 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://efghjnm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E24.Hindi.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-monirulislam-exp.workers.dev/image?url=https://efghjnm.b-cdn.net/upload/photos/2026/07/The.Map.of.Longing.jpg" group-title="Latest Movie", The Map of Longing (2026) S01 Dual 480p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://efghjnm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Map.of.Longing.(2026).S01.Dual.480p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-monirulislam-exp.workers.dev/image?url=https://efghjnm.b-cdn.net/upload/photos/2026/06/Agent.Kim.Reactivated.(2026).S01.jpg" group-title="Latest Movie", Agent Kim Reactivated S01E06 Dual 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://efghjnm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Agent.Kim.Reactivated.S01E06.Dual.1080p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-monirulislam-exp.workers.dev/image?url=https://efghjnm.b-cdn.net/upload/photos/2026/07/Maa.Inti.Bangaaram.(2026).jpg" group-title="Latest Movie", Maa Inti Bangaaram (2026) Multi 720p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://efghjnm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Maa.Inti.Bangaaram.(2026).Multi.720p.mkv
