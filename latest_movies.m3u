@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-monirulislam-exp.workers.dev/image?url=https://ptyujm.b-cdn.net/upload/photos/2026/06/abar-hawa-bodol.jpg" group-title="Latest Movie", Abar Hawa Bodol (2026) Bengali 480p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://ptyujm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Abar.Hawa.Bodol.(2026).Bengali.480p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-monirulislam-exp.workers.dev/image?url=https://ptyujm.b-cdn.net/upload/photos/2026/05/Cousins.and.Kalyanams.jpg" group-title="Latest Movie", Cousins and Kalyanams S01E29-32 Dual 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://ptyujm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Cousins.and.Kalyanams.S01E29-32.Dual.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-monirulislam-exp.workers.dev/image?url=https://ptyujm.b-cdn.net/upload/photos/2026/06/Thukra.Ke.Mera.Pyaar.S02.jpg" group-title="Latest Movie", Thukra Ke Mera Pyaar S02E17-20 Dual 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://ptyujm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Thukra.Ke.Mera.Pyaar.S02E17-20.Dual.720p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-monirulislam-exp.workers.dev/image?url=https://ptyujm.b-cdn.net/upload/photos/2026/06/Alliance.S01.Hindi.jpg" group-title="Latest Movie", Alliance (2026) S01E22 Hindi 720p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://ptyujm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E22.Hindi.720p.mkv
