@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-monirulislam-exp.workers.dev/image?url=https://ktyhgh.b-cdn.net/upload/photos/2026/06/Alliance.S01.Hindi.jpg" group-title="Latest Movie", Alliance (2026) S01E27 Hindi 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://ktyhgh.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E27.Hindi.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-monirulislam-exp.workers.dev/image?url=https://ktyhgh.b-cdn.net/upload/photos/2026/07/The.Apartment.Job.jpg" group-title="Latest Movie", The Apartment Job S01E02-03 Dual 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://ktyhgh.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Apartment.Job.S01E02-03.Dual.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-monirulislam-exp.workers.dev/image?url=https://ktyhgh.b-cdn.net/upload/photos/2026/07/Brazentina.Club.jpg" group-title="Latest Movie", Brazentina Club (2026) S01E03 720P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://ktyhgh.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Brazentina.Club.(2026).S01E03.720P.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-monirulislam-exp.workers.dev/image?url=https://ktyhgh.b-cdn.net/upload/photos/2026/07/Spooky.in.Love.(2026).S01.jpg" group-title="Latest Movie", Spooky in Love S01E02 Dual 720p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://ktyhgh.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Spooky.in.Love.S01E02.Dual.720p.mkv
