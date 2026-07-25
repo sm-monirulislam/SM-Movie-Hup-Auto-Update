@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://gghnm.b-cdn.net/upload/photos/2026/06/Alliance.S01.Hindi.jpg" group-title="Latest Movie", Alliance (2026) S01E22 Hindi 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://gghnm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E22.Hindi.720p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://gghnm.b-cdn.net/upload/photos/2025/06/Bachelor.Point.S05.jpg" group-title="Latest Movie", Bachelor Point S05E103 1080p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://gghnm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Bachelor.Point.S05E103.1080p.mkv
