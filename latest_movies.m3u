@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://otyghmm.b-cdn.net/upload/photos/2026/07/Pompeii.Out.of.Time.with.Tom.Hiddleston.jpg" group-title="Latest Movie", Pompeii Out of Time with Tom Hiddleston (2026) S01 Eng 1080P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://otyghmm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Pompeii.Out.of.Time.with.Tom.Hiddleston.(2026).S01.Eng.1080P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://otyghmm.b-cdn.net/upload/photos/2026/06/Agent.Kim.Reactivated.(2026).S01.jpg" group-title="Latest Movie", Agent Kim Reactivated S01E08 Dual 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://otyghmm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Agent.Kim.Reactivated.S01E08.Dual.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://otyghmm.b-cdn.net/upload/photos/2026/07/The.Debt.Collector.jpg" group-title="Latest Movie", The Debt Collector (2026) Dual 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://otyghmm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Debt.Collector.(2026).Dual.1080p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://otyghmm.b-cdn.net/upload/photos/2026/07/Dadagiri.Unlimited.jpg" group-title="Latest Movie", Dadagiri Unlimited S11E07 480P
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://otyghmm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Dadagiri.Unlimited.S11E07.480P.mkv
