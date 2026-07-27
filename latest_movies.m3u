@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://efghjn.b-cdn.net/upload/photos/2026/07/Dadagiri.Unlimited.jpg" group-title="Latest Movie", Dadagiri Unlimited S11E05 480P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://efghjn.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Dadagiri.Unlimited.S11E05.480P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://efghjn.b-cdn.net/upload/photos/2026/07/Dahan.(2026).S01.jpg" group-title="Latest Movie", Dahan (2026) S01 Bengali 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://efghjn.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Dahan.(2026).S01.Bengali.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://efghjn.b-cdn.net/upload/photos/2026/06/Indias.Best.Dancer.S05.jpg" group-title="Latest Movie", Indias Best Dancer S05E14 1080P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://efghjn.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Indias.Best.Dancer.S05E14.1080P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://efghjn.b-cdn.net/upload/photos/2026/06/Lock.Upp.(2026).S02.jpg" group-title="Latest Movie", Lock Upp S02E19 Hindi 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://efghjn.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lock.Upp.S02E19.Hindi.1080p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://efghjn.b-cdn.net/upload/photos/2025/04/Shanmukha-2025-Telugu.jpg" group-title="Latest Movie", Shanmukha (2025) Dual 480p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://efghjn.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Shanmukha.(2025).Dual.480p.mkv
