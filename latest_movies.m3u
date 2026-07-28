@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://otyghmm.b-cdn.net/upload/photos/2026/07/Avatar.Aang.The.Last.Airbender.(2026).Hindi.Dubbed.jpg" group-title="Latest Movie", Avatar Aang The Last Airbender (2026) Dual 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://otyghmm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Avatar.Aang.The.Last.Airbender.(2026).Dual.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://otyghmm.b-cdn.net/upload/photos/2026/07/Campus.Beats.(2026).S07.jpg" group-title="Latest Movie", Campus Beats (2026) S07 Hindi 480p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://otyghmm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Campus.Beats.(2026).S07.Hindi.480p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://otyghmm.b-cdn.net/upload/photos/2025/11/Laughter.Chefs.Unlimited.Entertainment.S03.jpg" group-title="Latest Movie", Laughter Chefs Unlimited Entertainment S03E72 Hindi 1080P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://otyghmm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Laughter.Chefs.Unlimited.Entertainment.S03E72.Hindi.1080P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://otyghmm.b-cdn.net/upload/photos/2025/10/Indian.Idol.jpg" group-title="Latest Movie", Indian Idol (2025) S16E82 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://otyghmm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Indian.Idol.(2025).S16E82.1080p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://otyghmm.b-cdn.net/upload/photos/2026/07/silo.jpg" group-title="Latest Movie", Silo S03E01-02 English 1080P
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://otyghmm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Silo.S03E01-02.English.1080P.mkv
