@@ -1,5 +1,23 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://ntyuhj.b-cdn.net/upload/photos/2026/06/Governor.(2026).Hindi.jpg" group-title="Latest Movie", Governor (2026) Hindi 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://ntyuhj.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Governor.(2026).Hindi.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://ntyuhj.b-cdn.net/upload/photos/2026/07/The-Truthers-Hindi-dubed.jpg" group-title="Latest Movie", The Truthers (2026) Multi 480p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://ntyuhj.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Truthers.(2026).Multi.480p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://ntyuhj.b-cdn.net/upload/photos/2026/04/Pallichattambi.(2026).Hindi.Dubbed.jpg" group-title="Latest Movie", Pallichattambi (2026) Dual 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://ntyuhj.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Pallichattambi.(2026).Dual.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://ntyuhj.b-cdn.net/upload/photos/2026/05/Batchmates.(2026).S01.Hindi.Dubbed.jpg" group-title="Latest Movie", Batchmates (2026) S01E49-52 Hindi 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://ntyuhj.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Batchmates.(2026).S01E49-52.Hindi.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://ntyuhj.b-cdn.net/upload/photos/2026/07/Elite.Force.(2026).S01.jpg" group-title="Latest Movie", Elite Force (2026) S01 Dual 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://ntyuhj.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Elite.Force.(2026).S01.Dual.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://ntyuhj.b-cdn.net/upload/photos/2026/07/Rockstar.jpg" group-title="Latest Movie", Rockstar 2026 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://ntyuhj.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Rockstar.2026.1080p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://ntyuhj.b-cdn.net/upload/photos/2026/07/The.Apartment.Job.jpg" group-title="Latest Movie", [The Apartment Job S01E06 Dual 720p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://ntyuhj.b-cdn.net/s3/upload/videos/2026/07/[[Fibwatch.Com]The.Apartment.Job.S01E06.Dual.720p.mkv
