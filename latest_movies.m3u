@@ -1,5 +1,29 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://mtyhj.b-cdn.net/upload/photos/2026/05/Colony-2026-Horror-Movie.jpg" group-title="Latest Movie", Colony 2026 1080p Korean
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://mtyhj.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Colony.2026.1080p.Korean.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://mtyhj.b-cdn.net/upload/photos/2026/07/Musafir.Cafe.(2026).S01.jpg" group-title="Latest Movie", Musafir Cafe (2026) S01 Hindi 480p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://mtyhj.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Musafir.Cafe.(2026).S01.Hindi.480p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://mtyhj.b-cdn.net/upload/photos/2026/07/The-Truthers-Hindi-dubed.jpg" group-title="Latest Movie", The Truthers (2026) Multi 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://mtyhj.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Truthers.(2026).Multi.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://mtyhj.b-cdn.net/upload/photos/2026/07/Protector.(2026).Hindi.Dubbed.jpg" group-title="Latest Movie", Protector (2026) Dual 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://mtyhj.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Protector.(2026).Dual.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://mtyhj.b-cdn.net/upload/photos/2026/07/uc003g_Con-city-Hindi-dubbed.jpg" group-title="Latest Movie", Con City (2026) Dual 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://mtyhj.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Con.City.(2026).Dual.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://mtyhj.b-cdn.net/upload/photos/2026/07/Disclosure.Day.(2026).Hindi.Dubbed.jpg" group-title="Latest Movie", Disclosure Day (2026) Dual 480p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://mtyhj.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Disclosure.Day.(2026).Dual.480p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://mtyhj.b-cdn.net/upload/photos/2026/07/Roopkathar.Radio.(2021).S01..jpg" group-title="Latest Movie", Roopkathar Radio (2021) S01E01-06 Bengali 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://mtyhj.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Roopkathar.Radio.(2021).S01E01-06.Bengali.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://mtyhj.b-cdn.net/upload/photos/2026/05/Brothers.and.Sisters.jpg" group-title="Latest Movie", Brothers and Sisters S01E33-36 Dual 1080P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://mtyhj.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Brothers.and.Sisters.S01E33-36.Dual.1080P.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://mtyhj.b-cdn.net/upload/photos/2026/06/Alliance.S01.Hindi.jpg" group-title="Latest Movie", Alliance (2026) S01E36 Hindi 720p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://mtyhj.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E36.Hindi.720p.mkv
