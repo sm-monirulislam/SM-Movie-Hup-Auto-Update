@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://btyujg.b-cdn.net/upload/photos/2026/07/Disclosure.Day.(2026).Hindi.Dubbed.jpg" group-title="Latest Movie", Disclosure Day (2026) Dual 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://btyujg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Disclosure.Day.(2026).Dual.720p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://btyujg.b-cdn.net/upload/photos/2026/05/Colony-2026-Horror-Movie.jpg" group-title="Latest Movie", Colony 2026 720p Korean
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://btyujg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Colony.2026.720p.Korean.mkv
