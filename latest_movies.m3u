@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://srtghj.b-cdn.net/upload/photos/2026/07/Ghost.Train.(2024).Hindi.Dubbed.jpg" group-title="Latest Movie", Ghost Train (2024) Dual 480p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://srtghj.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Ghost.Train.(2024).Dual.480p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://srtghj.b-cdn.net/upload/photos/2026/07/Rockstar.jpg" group-title="Latest Movie", Rockstar 2026 480p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://srtghj.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Rockstar.2026.480p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://srtghj.b-cdn.net/upload/photos/2026/06/Alliance.S01.Hindi.jpg" group-title="Latest Movie", Alliance (2026) S01E30 Hindi 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://srtghj.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E30.Hindi.720p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://srtghj.b-cdn.net/upload/photos/2026/07/Campus.Beats.(2026).S07.jpg" group-title="Latest Movie", Campus Beats (2026) S07 Hindi 1080p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://srtghj.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Campus.Beats.(2026).S07.Hindi.1080p.mkv
