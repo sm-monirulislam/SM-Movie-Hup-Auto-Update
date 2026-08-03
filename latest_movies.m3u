@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://crtyhj.b-cdn.net/upload/photos/2026/07/Soulm8te.(2026).jpg" group-title="Latest Movie", Soulm8te 2026 English 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://crtyhj.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Soulm8te.2026.English.720p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://crtyhj.b-cdn.net/upload/photos/2026/07/Gatta.Kusthi.2.(2026).Hindi.Dubbed.jpg" group-title="Latest Movie", Gatta Kusthi 2 2026 Dual 480p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://crtyhj.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Gatta.Kusthi.2.2026.Dual.480p.mkv
