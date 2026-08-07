@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://pyuio.b-cdn.net/upload/photos/2026/08/malik.jpg" group-title="Latest Movie", Malik (2026) 480p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://pyuio.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Malik.(2026).480p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://pyuio.b-cdn.net/upload/photos/2026/06/Lock.Upp.(2026).S02.jpg" group-title="Latest Movie", Lock Upp S02E35 Hindi 720p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://pyuio.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Lock.Upp.S02E35.Hindi.720p.mkv
