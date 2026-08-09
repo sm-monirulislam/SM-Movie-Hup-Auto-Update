@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://artyhn.b-cdn.net/upload/photos/2026/08/My.Life.with.the.Walter.Boys.Season.3.jpg" group-title="Latest Movie", My Life with the Walter Boys (2026) S03 Dual 720P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://artyhn.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]My.Life.with.the.Walter.Boys.(2026).S03.Dual.720P.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://artyhn.b-cdn.net/upload/photos/2026/08/Beast.(2026).Hindi.Dubbed.jpg" group-title="Latest Movie", Beast 2026 Dual 1080p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://artyhn.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Beast.2026.Dual.1080p.mkv
