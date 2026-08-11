@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://luiok.b-cdn.net/upload/photos/2026/08/Creation.of.the.Gods.II.Demon.Force.(2025).Hindi.Dubbed.jpg" group-title="Latest Movie", Creation Of The Gods II Demon Force 2025 Dual 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://luiok.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Creation.Of.The.Gods.II.Demon.Force.2025.Dual.1080p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://luiok.b-cdn.net/upload/photos/2026/08/THE.RIBBON.HERO.jpg" group-title="Latest Movie", THE RIBBON HERO (2026) Dual 720P
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://luiok.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]THE.RIBBON.HERO.(2026).Dual.720P.mkv
