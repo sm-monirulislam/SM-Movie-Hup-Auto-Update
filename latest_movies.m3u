@@ -1,5 +1,23 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://jtyuh.b-cdn.net/upload/photos/2026/08/Minions.&.Monsters.(2026).Hindi.Dubbed.jpg" group-title="Latest Movie", Minions & Monsters (2026) Dual 480p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://jtyuh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Minions.&.Monsters.(2026).Dual.480p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://jtyuh.b-cdn.net/upload/photos/2026/08/Choddobeshi.(2026).S01.Hindi.jpg" group-title="Latest Movie", Choddobeshi (2026) S01 Hindi 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://jtyuh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Choddobeshi.(2026).S01.Hindi.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://jtyuh.b-cdn.net/upload/photos/2026/08/Wrangler.(2026).Hindi.Dubbed.jpg" group-title="Latest Movie", Wrangler 2026 Dual 480p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://jtyuh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Wrangler.2026.Dual.480p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://jtyuh.b-cdn.net/upload/photos/2026/08/Aryabhatt-Ka-Zero.jpg" group-title="Latest Movie", Aryabhatt Ka Zero (2026) Hindi HDTC 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://jtyuh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Aryabhatt.Ka.Zero.(2026).Hindi.HDTC.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://jtyuh.b-cdn.net/upload/photos/2026/08/Shimla.Mirchi.(2020).Hindi.jpg" group-title="Latest Movie", Shimla Mirchi (2020) Hindi 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://jtyuh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Shimla.Mirchi.(2020).Hindi.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://jtyuh.b-cdn.net/upload/photos/2026/08/In.Hell.(2003).Hindi.Dubbed.jpg" group-title="Latest Movie", In Hell (2003) Dual 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://jtyuh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]In.Hell.(2003).Dual.720p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://jtyuh.b-cdn.net/upload/photos/2026/08/Pongala.(2025).Hindi.Dubbed.jpg" group-title="Latest Movie", Pongala 2025 Dual 720p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://jtyuh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Pongala.2025.Dual.720p.mkv
