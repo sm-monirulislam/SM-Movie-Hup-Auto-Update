@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://xertgh.b-cdn.net/upload/photos/2026/08/I.Me.aur.Main.(2013).Hindi.jpg" group-title="Latest Movie", I Me aur Main (2013) Hindi 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://xertgh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]I.Me.aur.Main.(2013).Hindi.1080p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://xertgh.b-cdn.net/upload/photos/2026/08/Evil.Dead.Burn.Bangla.Dubbed.jpg" group-title="Latest Movie", Evil Dead Burn (2026) Bengali Dubbed 1080p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://xertgh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Evil.Dead.Burn.(2026).Bengali.Dubbed.1080p.mkv
