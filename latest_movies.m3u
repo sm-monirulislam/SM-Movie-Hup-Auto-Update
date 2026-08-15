@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://brtyhj.b-cdn.net/upload/photos/2026/08/The.End.of.Oak.Street.(2026).Hindi.Dubbed.jpg" group-title="Latest Movie", The End of Oak Street 2026 Dual HDTS 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://brtyhj.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]The.End.of.Oak.Street.2026.Dual.HDTS.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://brtyhj.b-cdn.net/upload/photos/2026/08/Batwara.1947.jpg" group-title="Latest Movie", Batwara 1947 (2026) Hindi HDTC 480P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://brtyhj.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Batwara.1947.(2026).Hindi.HDTC.480P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://brtyhj.b-cdn.net/upload/photos/2026/08/the.tudors.S03.jpg" group-title="Latest Movie", The Tudors S03 Hindi Dubbed 480p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://brtyhj.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]The.Tudors.S03.Hindi.Dubbed.480p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://brtyhj.b-cdn.net/upload/photos/2026/07/Maa.Inti.Bangaaram.(2026).jpg" group-title="Latest Movie", Maa Inti Bangaram (2026) Dual 720p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://brtyhj.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Maa.Inti.Bangaram.(2026).Dual.720p.mkv
