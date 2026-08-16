@@ -1,5 +1,20 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://aghjm.b-cdn.net/upload/photos/2026/08/Independence.Day.Resurgence.(2016).Hindi.Dubbed.jpg" group-title="Latest Movie", Independence Day Resurgence (2016) Dual BluRay 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://aghjm.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Independence.Day.Resurgence.(2016).Dual.BluRay.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://aghjm.b-cdn.net/upload/photos/2026/07/The.Death.of.Robin.Hood.(2026).jpg" group-title="Latest Movie", The Death of Robin Hood (2026) Dual 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://aghjm.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]The.Death.of.Robin.Hood.(2026).Dual.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://aghjm.b-cdn.net/upload/photos/2026/08/ranapati-shivray--swari-agra-hindi-dubbed.jpg" group-title="Latest Movie", Ranapati Shivray Swari Agra (2026) Dual 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://aghjm.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Ranapati.Shivray.Swari.Agra.(2026).Dual.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://aghjm.b-cdn.net/upload/photos/2024/04/aX6DWPS82k1F7br6Fa6t_30_6e8a74ee39b06a62602b9a529850022e_image.jpg" group-title="Latest Movie", Eta Amader Golpo (2024) Bengali 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://aghjm.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Eta.Amader.Golpo.(2024).Bengali.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://aghjm.b-cdn.net/upload/photos/2026/08/Green.Snake.The.Origin.jpg" group-title="Latest Movie", Green Snake The Origin (2025) Dual 720P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://aghjm.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Green.Snake.The.Origin.(2025).Dual.720P.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://aghjm.b-cdn.net/upload/photos/2026/08/Batwara.1947.jpg" group-title="Latest Movie", Batwara 1947 (2026) Hindi HDTC 1080P
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://aghjm.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Batwara.1947.(2026).Hindi.HDTC.1080P.mkv
