@@ -1,5 +1,20 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://vrtyug.b-cdn.net/upload/photos/2026/08/Maharani.(2022).S02.jpg" group-title="Latest Movie", Maharani S02E06-10 Bangali 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://vrtyug.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Maharani.S02E06-10.Bangali.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://vrtyug.b-cdn.net/upload/photos/2026/08/Declassified.Operation.Sindoor.jpg" group-title="Latest Movie", Declassified Operation Sindoor S01E01Dual 720P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://vrtyug.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Declassified.Operation.Sindoor.S01E01Dual.720P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://vrtyug.b-cdn.net/upload/photos/2026/07/Spooky.in.Love.(2026).S01.jpg" group-title="Latest Movie", Spooky in Love S01E09 Dual 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://vrtyug.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Spooky.in.Love.S01E09.Dual.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://vrtyug.b-cdn.net/upload/photos/2026/07/The.Apartment.Job.jpg" group-title="Latest Movie", The Apartment Job S01E11 Dual 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://vrtyug.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]The.Apartment.Job.S01E11.Dual.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://vrtyug.b-cdn.net/upload/photos/2026/06/Euphoria.(2026).Hindi.Dubbed.jpg" group-title="Latest Movie", Euphoria (2026) Dual 480P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://vrtyug.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Euphoria.(2026).Dual.480P.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://vrtyug.b-cdn.net/upload/photos/2026/08/My.Brilliant.Career.jpg" group-title="Latest Movie", My Brilliant Career (2026) S01 Dual 1080P
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://vrtyug.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]My.Brilliant.Career.(2026).S01.Dual.1080P.mkv
