@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://vrtyug.b-cdn.net/upload/photos/2025/12/The.Great.Indian.Kapil.Show.S4.jpg" group-title="Latest Movie", The Great Indian Kapil Show S04E15 1080P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://vrtyug.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]The.Great.Indian.Kapil.Show.S04E15.1080P.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://vrtyug.b-cdn.net/upload/photos/2026/01/LBW.Love.Beyond.Wicket.jpg" group-title="Latest Movie", LBW Love Beyond Wicket (2026) S01E117-120 Dual 720P
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://vrtyug.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]LBW.Love.Beyond.Wicket.(2026).S01E117-120.Dual.720P.mkv
