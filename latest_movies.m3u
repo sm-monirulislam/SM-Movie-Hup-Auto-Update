@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://dertghk.b-cdn.net/upload/photos/2026/08/Green.Snake.The.Origin.jpg" group-title="Latest Movie", Green Snake The Origin (2025) Dual 480P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://dertghk.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Green.Snake.The.Origin.(2025).Dual.480P.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://dertghk.b-cdn.net/upload/photos/2026/08/awarapan-2-2026-Hindi.jpg" group-title="Latest Movie", Awarapan 2 (2026) Hindi HQ HDTC 1080p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://dertghk.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Awarapan.2.(2026).Hindi.HQ.HDTC.1080p.mkv
