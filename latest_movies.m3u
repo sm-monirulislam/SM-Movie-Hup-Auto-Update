@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://srtyhjm.b-cdn.net/upload/photos/2026/07/Dadagiri.Unlimited.jpg" group-title="Latest Movie", Dadagiri Unlimited S11E12 1080P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://srtyhjm.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Dadagiri.Unlimited.S11E12.1080P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://srtyhjm.b-cdn.net/upload/photos/2026/08/Jongom.jpg" group-title="Latest Movie", Jongom (2023) 720P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://srtyhjm.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Jongom.(2023).720P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://srtyhjm.b-cdn.net/upload/photos/2025/09/Sultan.Abdul.Hamid.jpg" group-title="Latest Movie", Sultan Abdul Hamid S01E170 Bengali ORG 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://srtyhjm.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Sultan.Abdul.Hamid.S01E170.Bengali.ORG.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://srtyhjm.b-cdn.net/upload/photos/2026/08/Lanterns.jpg" group-title="Latest Movie", Lanterns S01E01 Dual 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://srtyhjm.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Lanterns.S01E01.Dual.720p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://srtyhjm.b-cdn.net/upload/photos/2026/08/The.Maharashtra.Files.jpg" group-title="Latest Movie", The Maharashtra Files 2026 480P
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://srtyhjm.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]The.Maharashtra.Files.2026.480P.mkv
