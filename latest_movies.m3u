@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://gertyh.b-cdn.net/upload/photos/2026/08/Mahmut.Meryem.jpg" group-title="Latest Movie", Mahmut MeryemS01 Bengali 480P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://gertyh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Mahmut.MeryemS01.Bengali.480P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://gertyh.b-cdn.net/upload/photos/2026/08/WWE.Monday.Night.Raw.jpg" group-title="Latest Movie", WWE Monday Night Raw 2026 08 18 English 720P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://gertyh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]WWE.Monday.Night.Raw.2026.08.18.English.720P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://gertyh.b-cdn.net/upload/photos/2026/08/Stolen.Girl.(2025).Hindi.Dubbed.jpg" group-title="Latest Movie", Stolen Girl (2025) Dual 480p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://gertyh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Stolen.Girl.(2025).Dual.480p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://gertyh.b-cdn.net/upload/photos/2026/01/LBW.Love.Beyond.Wicket.jpg" group-title="Latest Movie", LBW Love Beyond Wicket (2026) S01E117-120 Dual 1080P
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://gertyh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]LBW.Love.Beyond.Wicket.(2026).S01E117-120.Dual.1080P.mkv
