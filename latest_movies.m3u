@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://fertyh.b-cdn.net/upload/photos/2026/08/Mahmut.Meryem.jpg" group-title="Latest Movie", Mahmut MeryemS01 Bengali 720P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://fertyh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Mahmut.MeryemS01.Bengali.720P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://fertyh.b-cdn.net/upload/photos/2026/08/Gail.Daughtry.and.the.Celebrity.Sex.Pass.(2026).jpg" group-title="Latest Movie", Gail Daughtry And The Celebrity Sex Pass 2026 English 720P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://fertyh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.com]Gail.Daughtry.And.The.Celebrity.Sex.Pass.2026.English.720P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://fertyh.b-cdn.net/upload/photos/2026/08/Lanterns.jpg" group-title="Latest Movie", Lanterns S01E01 Dual 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://fertyh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Lanterns.S01E01.Dual.1080p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-ultra-restream.workers.dev/?url=https://fertyh.b-cdn.net/upload/photos/2026/08/Sultan.Salahuddin.Ayyubi.jpg" group-title="Latest Movie", Sultan Salahuddin Ayyubi S01E12 720P
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://fertyh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Sultan.Salahuddin.Ayyubi.S01E12.720P.mkv
