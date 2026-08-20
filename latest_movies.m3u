@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://etyhnm.b-cdn.net/upload/photos/2026/08/The.Truman.Show.(1998).Hindi.Dubbed.jpg" group-title="Latest Movie", The Truman Show (1998) Dual BluRay 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://etyhnm.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]The.Truman.Show.(1998).Dual.BluRay.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://etyhnm.b-cdn.net/upload/photos/2026/08/Midwinter.Break.jpg" group-title="Latest Movie", Midwinter Break (2026) Dual 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://etyhnm.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Midwinter.Break.(2026).Dual.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://etyhnm.b-cdn.net/upload/photos/2025/06/Bachelor.Point.S05.jpg" group-title="Latest Movie", Bachelor Point S05E111 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://etyhnm.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Bachelor.Point.S05E111.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://etyhnm.b-cdn.net/upload/photos/2025/06/Bachelor.Point.S05.jpg" group-title="Latest Movie", Bachelor Point S05E105 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://etyhnm.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Bachelor.Point.S05E105.720p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://etyhnm.b-cdn.net/upload/photos/2026/08/Lenin.(2026).jpg" group-title="Latest Movie", Lenin (2026) Hindi Dubbed [HQ] 1080p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://etyhnm.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Lenin.(2026).Hindi.Dubbed.[HQ].1080p.mkv
