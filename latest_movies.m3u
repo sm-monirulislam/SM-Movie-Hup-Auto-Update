@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://jertyh.b-cdn.net/upload/photos/2026/05/Brothers.and.Sisters.jpg" group-title="Latest Movie", Brothers and Sisters S01E49-52 Dual 1080P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://jertyh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Brothers.and.Sisters.S01E49-52.Dual.1080P.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://jertyh.b-cdn.net/upload/photos/2026/08/The.Fingerprint.Murders.jpg" group-title="Latest Movie", The Fingerprint Murders (2026) Hindi ORG 480P
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://jertyh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]The.Fingerprint.Murders.(2026).Hindi.ORG.480P.mkv
