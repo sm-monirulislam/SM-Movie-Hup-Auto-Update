@@ -1,5 +1,20 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://prtyhn.b-cdn.net/upload/photos/2026/08/Ultorath.2026.Bangla.jpg" group-title="Latest Movie", Ultorath (2026) Bengali 480p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://prtyhn.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Ultorath.(2026).Bengali.480p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://prtyhn.b-cdn.net/upload/photos/2024/10/3917643-Banner-L2-84c71c60a5096afc512e53698bc1a398.jpg" group-title="Latest Movie", Ghost in the Shell (2017) Dual 1080P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://prtyhn.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Ghost.in.the.Shell.(2017).Dual.1080P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://prtyhn.b-cdn.net/upload/photos/2026/08/Chompoo.Lost.(2026).Hindi.Dubbed.jpg" group-title="Latest Movie", Chompoo Lost and Forgotten 2026 Hindi Dubbed 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://prtyhn.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Chompoo.Lost.and.Forgotten.2026.Hindi.Dubbed.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://prtyhn.b-cdn.net/upload/photos/2025/06/Bachelor.Point.S05.jpg" group-title="Latest Movie", Bachelor Point S05E109 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://prtyhn.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Bachelor.Point.S05E109.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://prtyhn.b-cdn.net/upload/photos/2026/08/The.Great.Grand.Superhero.jpg" group-title="Latest Movie", The Great Grand Superhero (2026) 720P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://prtyhn.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]The.Great.Grand.Superhero.(2026).720P.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://prtyhn.b-cdn.net/upload/photos/2026/08/Midwinter.Break.jpg" group-title="Latest Movie", Midwinter Break (2026) Dual 720p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://prtyhn.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Midwinter.Break.(2026).Dual.720p.mkv
