@@ -1,5 +1,23 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://irtghn.b-cdn.net/upload/photos/2026/08/Pyaar.Prema.Kalyanam.jpg" group-title="Latest Movie", [Pyaar Prema Kalyanam (2026) Dual 720P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://irtghn.b-cdn.net/s3/upload/videos/2026/08/[[Fibwatch.Com]Pyaar.Prema.Kalyanam.(2026).Dual.720P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://irtghn.b-cdn.net/upload/photos/2026/08/Kudiyan.Shehar.Diyan.jpg" group-title="Latest Movie", Kudiyan Shehar Diyan (2026) 480P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://irtghn.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Kudiyan.Shehar.Diyan.(2026).480P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://irtghn.b-cdn.net/upload/photos/2026/08/Clean.Up.Company.jpg" group-title="Latest Movie", Clean Up Company (2026) S01 720P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://irtghn.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Clean.Up.Company.(2026).S01.720P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://irtghn.b-cdn.net/upload/photos/2026/07/silo.jpg" group-title="Latest Movie", Silo S03E08 English 1080P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://irtghn.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Silo.S03E08.English.1080P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://irtghn.b-cdn.net/upload/photos/2026/08/Snake.5.jpg" group-title="Latest Movie", Snake 5 Monster City (2026) Dual 720P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://irtghn.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Snake.5.Monster.City.(2026).Dual.720P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://irtghn.b-cdn.net/upload/photos/2026/08/Welcome.to.the.Jungle.jpg" group-title="Latest Movie", Welcome to the Jungle (2026) 480p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://irtghn.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Welcome.to.the.Jungle.(2026).480p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://irtghn.b-cdn.net/upload/photos/2025/06/Bachelor.Point.S05.jpg" group-title="Latest Movie", Bachelor Point S05E112 1080p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://irtghn.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Bachelor.Point.S05E112.1080p.mkv
