@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://yertgb.b-cdn.net/upload/photos/2026/05/Cousins.and.Kalyanams.jpg" group-title="Latest Movie", Cousins and Kalyanams S01E49-52 Dual 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://yertgb.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Cousins.and.Kalyanams.S01E49-52.Dual.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://yertgb.b-cdn.net/upload/photos/2026/08/WWE.Friday.Night.SmackDown.jpg" group-title="Latest Movie", WWE Friday Night SmackDown 2026 08 22 480P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://yertgb.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]WWE.Friday.Night.SmackDown.2026.08.22.480P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://yertgb.b-cdn.net/upload/photos/2026/08/sahan.2026.Hindi.jpg" group-title="Latest Movie", Sahan (2026) Hindi 480p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://yertgb.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Sahan.(2026).Hindi.480p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://yertgb.b-cdn.net/upload/photos/2026/08/Ananta.Bhalobasha.S01.Bangla.Dubbed.jpg" group-title="Latest Movie", Ananta Bhalobasha S01E06 Bangla Dubbed 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://yertgb.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Ananta.Bhalobasha.S01E06.Bangla.Dubbed.1080p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://yertgb.b-cdn.net/upload/photos/2026/08/Dial.1975.jpg" group-title="Latest Movie", Dial 1975 (2026) 480P
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://yertgb.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Dial.1975.(2026).480P.mkv
