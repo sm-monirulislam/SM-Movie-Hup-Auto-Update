@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://xrtghm.b-cdn.net/upload/photos/2026/08/Somebody.(2025).Hindi.Dubbed.jpg" group-title="Latest Movie", Somebody 2025 Dual 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://xrtghm.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Somebody.2025.Dual.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://xrtghm.b-cdn.net/upload/photos/2026/08/Mrs.Scooter.(2015).Hindi.jpg" group-title="Latest Movie", Mrs Scooter (2015) Hindi 1080P New
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://xrtghm.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Mrs.Scooter.(2015).Hindi.1080P.New.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://xrtghm.b-cdn.net/upload/photos/2026/08/Rush.(2013).Hindi.Dubbed.jpg" group-title="Latest Movie", Rush 2013 Dual 720P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://xrtghm.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Rush.2013.Dual.720P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://xrtghm.b-cdn.net/upload/photos/2026/08/Pareeksha.(2019).Hindi.jpg" group-title="Latest Movie", Pareeksha (2019) Hindi 720P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://xrtghm.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Pareeksha.(2019).Hindi.720P.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://xrtghm.b-cdn.net/upload/photos/2026/08/MTV.Hustle.jpg" group-title="Latest Movie", MTV Hustle S05E05 720p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://xrtghm.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]MTV.Hustle.S05E05.720p.mkv
