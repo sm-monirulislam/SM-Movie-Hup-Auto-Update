@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://xrtghm.b-cdn.net/upload/photos/2026/08/Mrs.Scooter.(2015).Hindi.jpg" group-title="Latest Movie", Mrs Scooter (2015) Hindi 720P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://xrtghm.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Mrs.Scooter.(2015).Hindi.720P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://xrtghm.b-cdn.net/upload/photos/2026/08/Green.Card.(2024).Bengali.jpg" group-title="Latest Movie", Green Card (2024) Bengali 480P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://xrtghm.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Green.Card.(2024).Bengali.480P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://xrtghm.b-cdn.net/upload/photos/2026/08/Pareeksha.(2019).Hindi.jpg" group-title="Latest Movie", Pareeksha (2019) Hindi 1080P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://xrtghm.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Pareeksha.(2019).Hindi.1080P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://xrtghm.b-cdn.net/upload/photos/2026/08/Choked.(2020).Hindi.jpg" group-title="Latest Movie", Choked (2020) Hindi 720P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://xrtghm.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Choked.(2020).Hindi.720P.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://xrtghm.b-cdn.net/upload/photos/2026/08/Somebody.(2025).Hindi.Dubbed.jpg" group-title="Latest Movie", Somebody 2025 Dual 1080p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://xrtghm.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Somebody.2025.Dual.1080p.mkv
