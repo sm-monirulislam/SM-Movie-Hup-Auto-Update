@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://ctyhjkm.b-cdn.net/upload/photos/2026/08/Choked.(2020).Hindi.jpg" group-title="Latest Movie", Choked (2020) Hindi 1080P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://ctyhjkm.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Choked.(2020).Hindi.1080P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://ctyhjkm.b-cdn.net/upload/photos/2026/08/Green.Card.(2024).Bengali.jpg" group-title="Latest Movie", Green Card (2024) Bengali 720P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://ctyhjkm.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Green.Card.(2024).Bengali.720P.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://ctyhjkm.b-cdn.net/upload/photos/2024/10/3917643-Banner-L2-84c71c60a5096afc512e53698bc1a398.jpg" group-title="Latest Movie", Ghost in the Shell (2017) Dual 480P
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://ctyhjkm.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Ghost.in.the.Shell.(2017).Dual.480P.mkv
