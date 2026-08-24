@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://nrtyhb.b-cdn.net/upload/photos/2026/08/Gladiators.jpg" group-title="Latest Movie", Gladiators (2024) Dual 480P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://nrtyhb.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Gladiators.(2024).Dual.480P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://nrtyhb.b-cdn.net/upload/photos/2026/08/Good.Luck.Jerry.2022.Hindi.jpg" group-title="Latest Movie", Good Luck Jerry (2022) Hindi 1080P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://nrtyhb.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Good.Luck.Jerry.(2022).Hindi.1080P.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://nrtyhb.b-cdn.net/upload/photos/2026/08/Mowgli.(2025).Telugu.jpg" group-title="Latest Movie", Mowgli (2025) Telugu 720P
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://nrtyhb.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Mowgli.(2025).Telugu.720P.mkv
