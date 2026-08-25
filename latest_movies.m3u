@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://srtyg.b-cdn.net/upload/photos/2026/08/My-Bias-My-Boss-2026-S01.jpg" group-title="Latest Movie", My Bias My Boss S01E07 Dual 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://srtyg.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]My.Bias.My.Boss.S01E07.Dual.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://srtyg.b-cdn.net/upload/photos/2023/05/4TGkJhoR239YEYZCNUiM_10_b2c7ed729715b84184b7919c1e8d4b5e_image.jpg" group-title="Latest Movie", CSI Sanatan (2023) Dual 1080P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://srtyg.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]CSI.Sanatan.(2023).Dual.1080P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://srtyg.b-cdn.net/upload/photos/2025/09/Sultan.Abdul.Hamid.jpg" group-title="Latest Movie", Sultan Abdul Hamid S01E171 Bengali ORG 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://srtyg.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Sultan.Abdul.Hamid.S01E171.Bengali.ORG.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://srtyg.b-cdn.net/upload/photos/2026/08/I.Nobody.(2026).Hindi.Dubbed.jpg" group-title="Latest Movie", I Nobody (2026) Dual 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://srtyg.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]I.Nobody.(2026).Dual.720p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://srtyg.b-cdn.net/upload/photos/2026/08/The.Switch.(2010).Hindi.Dubbed.jpg" group-title="Latest Movie", The Switch 2010 Dual 720p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://srtyg.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]The.Switch.2010.Dual.720p.mkv
