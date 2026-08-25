@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://drtyhn.b-cdn.net/upload/photos/2026/07/Arafta.(2026).S02.jpg" group-title="Latest Movie", Arafta (2026) S02E09 Hindi Dubbed 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://drtyhn.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Arafta.(2026).S02E09.Hindi.Dubbed.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://drtyhn.b-cdn.net/upload/photos/2026/08/The.Switch.(2010).Hindi.Dubbed.jpg" group-title="Latest Movie", The Switch 2010 Dual 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://drtyhn.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]The.Switch.2010.Dual.1080p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://drtyhn.b-cdn.net/upload/photos/2026/08/Mowgli.(2025).Telugu.jpg" group-title="Latest Movie", Mowgli (2025) Telugu 720P
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://drtyhn.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Mowgli.(2025).Telugu.720P.mkv
