@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://aertg.b-cdn.net/upload/photos/2026/08/Khejdi.(2026).Bengali.Dubbed.jpg" group-title="Latest Movie", Khejdi (2026) Bengali Dubbed 480p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://aertg.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Khejdi.(2026).Bengali.Dubbed.480p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://aertg.b-cdn.net/upload/photos/2026/08/Khatron.Ke.Khiladi.jpg" group-title="Latest Movie", Khatron Ke Khiladi (2026) S15E08 1080P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://aertg.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Khatron.Ke.Khiladi.(2026).S15E08.1080P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://aertg.b-cdn.net/upload/photos/2026/07/Evil.Dead.Burn.jpg" group-title="Latest Movie", Evil Dead Burn (2026) Dual 720P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://aertg.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Evil.Dead.Burn.(2026).Dual.720P.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://aertg.b-cdn.net/upload/photos/2026/08/Ananta.Bhalobasha.S01.Bangla.Dubbed.jpg" group-title="Latest Movie", Ananta Bhalobasha S01E09 Bangla Dubbed 720p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://aertg.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Ananta.Bhalobasha.S01E09.Bangla.Dubbed.720p.mkv
