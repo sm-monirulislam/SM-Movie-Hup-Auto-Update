@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://aertg.b-cdn.net/upload/photos/2026/08/Ananta.Bhalobasha.S01.Bangla.Dubbed.jpg" group-title="Latest Movie", Ananta Bhalobasha S01E09 Bangla Dubbed 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://aertg.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Ananta.Bhalobasha.S01E09.Bangla.Dubbed.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://aertg.b-cdn.net/upload/photos/2026/08/Lanterns.jpg" group-title="Latest Movie", Lanterns S01E02 Dual 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://aertg.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Lanterns.S01E02.Dual.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://aertg.b-cdn.net/upload/photos/2026/08/Barb.Wire.(1996).Hindi.Dubbed.jpg" group-title="Latest Movie", Barb Wire 1996 Dual 1080P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://aertg.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Barb.Wire.1996.Dual.1080P.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://aertg.b-cdn.net/upload/photos/2026/08/Sultan.Salahuddin.Ayyubi.jpg" group-title="Latest Movie", Sultan Salahuddin Ayyubi S01E17 1080P
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://aertg.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Sultan.Salahuddin.Ayyubi.S01E17.1080P.mkv
