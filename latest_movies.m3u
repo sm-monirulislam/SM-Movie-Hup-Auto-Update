@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://drtyhn.b-cdn.net/upload/photos/2026/08/The.Practical.Guide.to.Love.jpg" group-title="Latest Movie", The Practical Guide to Love (2026) S01 Dual 720P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://drtyhn.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]The.Practical.Guide.to.Love.(2026).S01.Dual.720P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://drtyhn.b-cdn.net/upload/photos/2026/08/Motor.City.jpg" group-title="Latest Movie", Motor City (2026) English 1080P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://drtyhn.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Motor.City.(2026).English.1080P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://drtyhn.b-cdn.net/upload/photos/2026/08/My-Bias-My-Boss-2026-S01.jpg" group-title="Latest Movie", My Bias My Boss S01E07 Dual 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://drtyhn.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]My.Bias.My.Boss.S01E07.Dual.720p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://drtyhn.b-cdn.net/upload/photos/2026/07/Arafta.(2026).S02.jpg" group-title="Latest Movie", Arafta (2026) S02E09 Hindi Dubbed 1080p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://drtyhn.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Arafta.(2026).S02E09.Hindi.Dubbed.1080p.mkv
