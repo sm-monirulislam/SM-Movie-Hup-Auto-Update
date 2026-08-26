@@ -1,5 +1,20 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://fertb.b-cdn.net/upload/photos/2026/08/Saanwri.jpg" group-title="Latest Movie", [Saanwri (2026) Bengali 1080P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://fertb.b-cdn.net/s3/upload/videos/2026/08/[[Fibwatch.Com]Saanwri.(2026).Bengali.1080P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://fertb.b-cdn.net/upload/photos/2026/08/Reacher.2026.S04.jpg" group-title="Latest Movie", Reacher (2026) S04E05 Dual 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://fertb.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Reacher.(2026).S04E05.Dual.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://fertb.b-cdn.net/upload/photos/2026/08/Boonie.Bears.The.Hidden.Protector.jpg" group-title="Latest Movie", Boonie Bears The Hidden Protector (2026) Dual 480P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://fertb.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Boonie.Bears.The.Hidden.Protector.(2026).Dual.480P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://fertb.b-cdn.net/upload/photos/2026/08/The.Last.Sunrise.jpg" group-title="Latest Movie", The Last Sunrise 2026 Dual 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://fertb.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]The.Last.Sunrise.2026.Dual.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://fertb.b-cdn.net/upload/photos/2026/08/Amidst.A.Snowstorm.Of.Love.jpg" group-title="Latest Movie", Amidst A Snowstorm Of Love S01E01-05 1080P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://fertb.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Amidst.A.Snowstorm.Of.Love.S01E01-05.1080P.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://fertb.b-cdn.net/upload/photos/2026/08/The.Switch.(2010).Hindi.Dubbed.jpg" group-title="Latest Movie", The Switch 2010 Dual 1080p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://fertb.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]The.Switch.2010.Dual.1080p.mkv
