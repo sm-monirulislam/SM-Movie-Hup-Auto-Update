@@ -29,7 +29,7 @@ jobs:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git clone https://x-access-token:${GH_PAT}@github.com/sm-monirulislam/${REPO_NAME}.git private_code
-          cp private_code/App/movie_ftp.py .
+          cp private_code/movie/movie_ftp.py .
           rm -rf private_code
 
       - name: Run Python Script
