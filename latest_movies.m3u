@@ -1,5 +1,26 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://jrtyh.b-cdn.net/upload/photos/2026/09/Lovesick.S01.Hindi.Dubbed.jpg" group-title="Latest Movie", Lovesick S01 Dual 480p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://jrtyh.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Lovesick.S01.Dual.480p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://jrtyh.b-cdn.net/upload/photos/2026/08/Ananta.Bhalobasha.S01.Bangla.Dubbed.jpg" group-title="Latest Movie", Ananta Bhalobasha S01E17 Bangla Dubbed 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://jrtyh.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Ananta.Bhalobasha.S01E17.Bangla.Dubbed.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://jrtyh.b-cdn.net/upload/photos/2026/09/The.Runner.jpg" group-title="Latest Movie", The Runner (2026) Dual 480P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://jrtyh.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]The.Runner.(2026).Dual.480P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://jrtyh.b-cdn.net/upload/photos/2026/09/Kangaroo.jpg" group-title="Latest Movie", Kangaroo (2025) Dual 1080P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://jrtyh.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Kangaroo.(2025).Dual.1080P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://jrtyh.b-cdn.net/upload/photos/2026/08/Reacher.2026.S04.jpg" group-title="Latest Movie", Reacher (2026) S04E06 Dual 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://jrtyh.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Reacher.(2026).S04E06.Dual.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://jrtyh.b-cdn.net/upload/photos/2026/08/Sultan.Salahuddin.Ayyubi.jpg" group-title="Latest Movie", Sultan Salahuddin Ayyubi S01E24 720P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://jrtyh.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Sultan.Salahuddin.Ayyubi.S01E24.720P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://jrtyh.b-cdn.net/upload/photos/2026/09/Aarata.jpg" group-title="Latest Movie", Aarata (2024) Dual 1080P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://jrtyh.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Aarata.(2024).Dual.1080P.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://jrtyh.b-cdn.net/upload/photos/2026/08/My-Bias-My-Boss-2026-S01.jpg" group-title="Latest Movie", My Bias My Boss S01E09 Dual 720p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://jrtyh.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]My.Bias.My.Boss.S01E09.Dual.720p.mkv
