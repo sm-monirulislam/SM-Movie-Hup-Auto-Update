@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://ltyuh.b-cdn.net/upload/photos/2026/09/Filing.for.Love.(2026).S01.jpg" group-title="Latest Movie", Filing for Love S01 Dual 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://ltyuh.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Filing.for.Love.S01.Dual.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://ltyuh.b-cdn.net/upload/photos/2026/08/Sultan.Salahuddin.Ayyubi.jpg" group-title="Latest Movie", Sultan Salahuddin Ayyubi S01E23 1080P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://ltyuh.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Sultan.Salahuddin.Ayyubi.S01E23.1080P.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://ltyuh.b-cdn.net/upload/photos/2026/09/Confinement.jpg" group-title="Latest Movie", Confinement (2026) 1080P
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://ltyuh.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Confinement.(2026).1080P.mkv
