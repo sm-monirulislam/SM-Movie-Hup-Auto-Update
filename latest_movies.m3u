@@ -1,5 +1,20 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://hrtyhj.b-cdn.net/upload/photos/2026/09/Kangaroo.jpg" group-title="Latest Movie", Kangaroo (2025) Dual 480P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://hrtyhj.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Kangaroo.(2025).Dual.480P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://hrtyhj.b-cdn.net/upload/photos/2026/09/The.Gentlemen.jpg" group-title="Latest Movie", The Gentlemen (2026) S02 Dual 480P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://hrtyhj.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]The.Gentlemen.(2026).S02.Dual.480P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://hrtyhj.b-cdn.net/upload/photos/2026/09/The.Hard.Corps.(2005).Hindi.Dubbed.jpg" group-title="Latest Movie", The Hard Corps (2005) Hindi Dubbed 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://hrtyhj.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]The.Hard.Corps.(2005).Hindi.Dubbed.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://hrtyhj.b-cdn.net/upload/photos/2026/09/Gandhari.(2026).Hindi.jpg" group-title="Latest Movie", Gandhari 2026 Dual 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://hrtyhj.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Gandhari.2026.Dual.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://hrtyhj.b-cdn.net/upload/photos/2026/07/Heart.Beat.(2026).S03..jpg" group-title="Latest Movie", Heart Beat S03E21-24 Dual 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://hrtyhj.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Heart.Beat.S03E21-24.Dual.1080p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://hrtyhj.b-cdn.net/upload/photos/2026/05/Star.Wars.The.Mandalorian.and.Grogu.(2026).jpg" group-title="Latest Movie", Star Wars The Mandalorian and Grogu (2026) Dual 480p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://hrtyhj.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Star.Wars.The.Mandalorian.and.Grogu.(2026).Dual.480p.mkv
