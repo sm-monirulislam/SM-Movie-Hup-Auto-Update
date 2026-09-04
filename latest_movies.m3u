@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://vrtyghb.b-cdn.net/upload/photos/2026/08/G.D.N.(2026).Hindi.Dubbed.jpg" group-title="Latest Movie", GDN 2026 Dual 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://vrtyghb.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]GDN.2026.Dual.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://vrtyghb.b-cdn.net/upload/photos/2026/09/Mirzapur.The.Movie.(2026).Hindi.jpg" group-title="Latest Movie", Mirzapur The Movie (2026) Hindi HQ HDTC 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://vrtyghb.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Mirzapur.The.Movie.(2026).Hindi.HQ.HDTC.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://vrtyghb.b-cdn.net/upload/photos/2026/07/Arafta.(2026).S02.jpg" group-title="Latest Movie", Arafta (2026) S02E12 Hindi Dubbed 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://vrtyghb.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Arafta.(2026).S02E12.Hindi.Dubbed.720p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://vrtyghb.b-cdn.net/upload/photos/2026/09/calmos.jpg" group-title="Latest Movie", Calmos 1976 1080p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://vrtyghb.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Calmos.1976.1080p.mkv
