@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://vrtyghb.b-cdn.net/upload/photos/2026/07/Dhamaal.4.(2026).Hindi.jpg" group-title="Latest Movie", Dhamaal 4 2026 Hindi 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://vrtyghb.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Dhamaal.4.2026.Hindi.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://vrtyghb.b-cdn.net/upload/photos/2026/08/Bigg.Boss.(2026).S01.Bengali.jpg" group-title="Latest Movie", Bigg Boss S01E06 Bengali 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://vrtyghb.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Bigg.Boss.S01E06.Bengali.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://vrtyghb.b-cdn.net/upload/photos/2026/09/Im.Game.(2026).Hindi.Dubbed.jpg" group-title="Latest Movie", Im Game 2026 Multi HDTC 480p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://vrtyghb.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Im.Game.2026.Multi.HDTC.480p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://vrtyghb.b-cdn.net/upload/photos/2026/05/Cousins.and.Kalyanams.jpg" group-title="Latest Movie", Cousins and Kalyanams S01E57-60 Dual 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://vrtyghb.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Cousins.and.Kalyanams.S01E57-60.Dual.720p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://vrtyghb.b-cdn.net/upload/photos/2026/08/G.D.N.(2026).Hindi.Dubbed.jpg" group-title="Latest Movie", GDN 2026 Dual 1080p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://vrtyghb.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]GDN.2026.Dual.1080p.mkv
