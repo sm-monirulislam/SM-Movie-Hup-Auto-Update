@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://qfgbdf.b-cdn.net/upload/photos/2026/09/Thir13en.Ghosts.(2001).Hindi.Dubbed.jpg" group-title="Latest Movie", Thir13en Ghosts (2001) Dual 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://qfgbdf.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Thir13en.Ghosts.(2001).Dual.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://qfgbdf.b-cdn.net/upload/photos/2026/09/Jeevan.Bheema.Yojana.(2026).Hindi.jpg" group-title="Latest Movie", Jeevan Bheema Yojana (2026) Hindi HDTC 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://qfgbdf.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Jeevan.Bheema.Yojana.(2026).Hindi.HDTC.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://qfgbdf.b-cdn.net/upload/photos/2026/08/MTV.Hustle.jpg" group-title="Latest Movie", MTV Hustle S05E10 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://qfgbdf.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]MTV.Hustle.S05E10.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://qfgbdf.b-cdn.net/upload/photos/2026/07/Dadagiri.Unlimited.jpg" group-title="Latest Movie", Dadagiri Unlimited S11E19 720P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://qfgbdf.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Dadagiri.Unlimited.S11E19.720P.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://qfgbdf.b-cdn.net/upload/photos/2026/07/Dhamaal.4.(2026).Hindi.jpg" group-title="Latest Movie", Dhamaal 4 2026 Hindi 1080p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://qfgbdf.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Dhamaal.4.2026.Hindi.1080p.mkv
