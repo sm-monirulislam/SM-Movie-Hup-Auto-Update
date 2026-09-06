@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://nrtyhg.b-cdn.net/upload/photos/2026/09/vishwanath-and-sons-hindi-dubbed.jpg" group-title="Latest Movie", Vishwanath & Sons (2026) Hindi HDTC 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://nrtyhg.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Vishwanath.&.Sons.(2026).Hindi.HDTC.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://nrtyhg.b-cdn.net/upload/photos/2026/08/108.Base.Hospital.Uri.jpg" group-title="Latest Movie", 108 Base Hospital Uri S01E07 720P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://nrtyhg.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]108.Base.Hospital.Uri.S01E07.720P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://nrtyhg.b-cdn.net/upload/photos/2026/08/Khatron.Ke.Khiladi.jpg" group-title="Latest Movie", Khatron Ke Khiladi (2026) S15E11 1080P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://nrtyhg.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Khatron.Ke.Khiladi.(2026).S15E11.1080P.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://nrtyhg.b-cdn.net/upload/photos/2026/09/Tomake.Holo.Na.Payoa.jpg" group-title="Latest Movie", Tomake Holo Na Payoa (2026) 720P
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://nrtyhg.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Tomake.Holo.Na.Payoa.(2026).720P.mkv
