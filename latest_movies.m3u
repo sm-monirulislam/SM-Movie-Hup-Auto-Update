@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://qfgbdf.b-cdn.net/upload/photos/2026/06/Indias.Got.Latent.jpeg" group-title="Latest Movie", Indias Got Latent S02E07 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://qfgbdf.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Indias.Got.Latent.S02E07.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://qfgbdf.b-cdn.net/upload/photos/2026/08/Bigg.Boss.(2026).S01.Bengali.jpg" group-title="Latest Movie", Bigg Boss S01E07 Bengali 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://qfgbdf.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Bigg.Boss.S01E07.Bengali.1080p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://qfgbdf.b-cdn.net/upload/photos/2026/09/Thir13en.Ghosts.(2001).Hindi.Dubbed.jpg" group-title="Latest Movie", Thir13en Ghosts (2001) Dual 720p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://qfgbdf.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Thir13en.Ghosts.(2001).Dual.720p.mkv
