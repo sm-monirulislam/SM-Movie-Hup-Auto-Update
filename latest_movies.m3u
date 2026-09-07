@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://esdtyh.b-cdn.net/upload/photos/2026/09/Bigg Boss.S20.jpg" group-title="Latest Movie", Bigg Boss S20E01 Hindi 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://esdtyh.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Bigg.Boss.S20E01.Hindi.720p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://esdtyh.b-cdn.net/upload/photos/2026/08/Khatron.Ke.Khiladi.jpg" group-title="Latest Movie", Khatron Ke Khiladi (2026) S15E11 720P
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://esdtyh.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Khatron.Ke.Khiladi.(2026).S15E11.720P.mkv
