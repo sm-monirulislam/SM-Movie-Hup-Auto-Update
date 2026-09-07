@@ -1,5 +1,20 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://qfgbdf.b-cdn.net/upload/photos/2026/08/Bigg.Boss.(2026).S01.Bengali.jpg" group-title="Latest Movie", Bigg Boss S01E08 Bengali 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://qfgbdf.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Bigg.Boss.S01E08.Bengali.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://qfgbdf.b-cdn.net/upload/photos/2026/09/Bigg Boss.S20.jpg" group-title="Latest Movie", Bigg Boss S20E01 Hindi 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://qfgbdf.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Bigg.Boss.S20E01.Hindi.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://qfgbdf.b-cdn.net/upload/photos/2026/09/Dark.Chocolate.(2016).Hindi..jpg" group-title="Latest Movie", Dark Chocolate (2016) Hindi 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://qfgbdf.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Dark.Chocolate.(2016).Hindi.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://qfgbdf.b-cdn.net/upload/photos/2026/08/Sultan.Salahuddin.Ayyubi.jpg" group-title="Latest Movie", Sultan Salahuddin Ayyubi S01E26 720P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://qfgbdf.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Sultan.Salahuddin.Ayyubi.S01E26.720P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://qfgbdf.b-cdn.net/upload/photos/2026/08/Ananta.Bhalobasha.S01.Bangla.Dubbed.jpg" group-title="Latest Movie", Ananta Bhalobasha S01E20 Bangla Dubbed 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://qfgbdf.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Ananta.Bhalobasha.S01E20.Bangla.Dubbed.720p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://qfgbdf.b-cdn.net/upload/photos/2026/06/Indias.Got.Latent.jpeg" group-title="Latest Movie", Indias Got Latent S02E07 720p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://qfgbdf.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Indias.Got.Latent.S02E07.720p.mkv
