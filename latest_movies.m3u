@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://pghjn.b-cdn.net/upload/photos/2026/05/Cousins.and.Kalyanams.jpg" group-title="Latest Movie", Cousins and Kalyanams S01E61-64 Dual 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://pghjn.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Cousins.and.Kalyanams.S01E61-64.Dual.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://pghjn.b-cdn.net/upload/photos/2026/08/My-Bias-My-Boss-2026-S01.jpg" group-title="Latest Movie", My Bias My Boss S01E12 Dual 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://pghjn.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]My.Bias.My.Boss.S01E12.Dual.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://pghjn.b-cdn.net/upload/photos/2026/09/Crime.Patrol.jpg" group-title="Latest Movie", Crime Patrol (2026) S01E05 1080P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://pghjn.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Crime.Patrol.(2026).S01E05.1080P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://pghjn.b-cdn.net/upload/photos/2026/09/DCP.Shankar.The.Destroyer.(2026).Hindi.jpg" group-title="Latest Movie", DCP Shankar The Destroyer (2026) Hindi 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://pghjn.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]DCP.Shankar.The.Destroyer.(2026).Hindi.1080p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://pghjn.b-cdn.net/upload/photos/2026/08/Ananta.Bhalobasha.S01.Bangla.Dubbed.jpg" group-title="Latest Movie", Ananta Bhalobasha S01E22 Bangla Dubbed 720p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://pghjn.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Ananta.Bhalobasha.S01E22.Bangla.Dubbed.720p.mkv
