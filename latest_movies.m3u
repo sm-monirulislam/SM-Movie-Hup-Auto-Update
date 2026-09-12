@@ -1,5 +1,23 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://srtghn.b-cdn.net/upload/photos/2026/09/Pitt.Siyapa.jpg" group-title="Latest Movie", Pitt Siyapa (2026) Dual 720P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://srtghn.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Pitt.Siyapa.(2026).Dual.720P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://srtghn.b-cdn.net/upload/photos/2026/09/2nd.Chorki.Carnival.jpg" group-title="Latest Movie", 2nd Chorki Carnival (2026) 720P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://srtghn.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]2nd.Chorki.Carnival.(2026).720P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://srtghn.b-cdn.net/upload/photos/2026/09/The.Ordinary.Jackpot.(2026).S01.jpg" group-title="Latest Movie", The Ordinary Jackpot S01E01 Dual 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://srtghn.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]The.Ordinary.Jackpot.S01E01.Dual.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://srtghn.b-cdn.net/upload/photos/2026/09/Ali.Baba.aur.40.Bhoot.(2026).S01.jpg" group-title="Latest Movie", Ali Baba aur 40 Bhoot S01E01-04 Dual 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://srtghn.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Ali.Baba.aur.40.Bhoot.S01E01-04.Dual.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://srtghn.b-cdn.net/upload/photos/2026/09/Salmokji.Whispering.Water.(2026).Hindi.Dubbed.jpg" group-title="Latest Movie", Salmokji Whispering Water 2026 Dual 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://srtghn.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Salmokji.Whispering.Water.2026.Dual.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://srtghn.b-cdn.net/upload/photos/2026/09/crew-girl-S01.jpg" group-title="Latest Movie", Crew Girl (2026) S01 Dual 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://srtghn.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Crew.Girl.(2026).S01.Dual.720p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://srtghn.b-cdn.net/upload/photos/2026/08/Bigg.Boss.(2026).S01.Bengali.jpg" group-title="Latest Movie", Bigg Boss S01E12 Bengali 720p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://srtghn.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Bigg.Boss.S01E12.Bengali.720p.mkv
