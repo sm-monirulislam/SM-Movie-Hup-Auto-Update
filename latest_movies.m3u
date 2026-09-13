@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://ltyuh.b-cdn.net/upload/photos/2026/09/A.Love.Other.than.Yours.S01.jpg" group-title="Latest Movie", A Love Other than Yours S01E01 Multi Audio 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://ltyuh.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]A.Love.Other.than.Yours.S01E01.Multi.Audio.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://ltyuh.b-cdn.net/upload/photos/2026/09/Hen.(2025).Hindi.Dubbed.jpg" group-title="Latest Movie", Hen 2025 Dual 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://ltyuh.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Hen.2025.Dual.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://ltyuh.b-cdn.net/upload/photos/2026/08/Bigg.Boss.(2026).S01.Bengali.jpg" group-title="Latest Movie", Bigg Boss S01E14 Bengali 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://ltyuh.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Bigg.Boss.S01E14.Bengali.1080p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://ltyuh.b-cdn.net/upload/photos/2026/09/Heartbeats.Pyaar.aur.Armaan.jpeg" group-title="Latest Movie", Heartbeats Pyaar aur Armaan (2026) S02 720P
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://ltyuh.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Heartbeats.Pyaar.aur.Armaan.(2026).S02.720P.mkv
