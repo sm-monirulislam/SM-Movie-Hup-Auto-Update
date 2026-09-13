@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://krtyhg.b-cdn.net/upload/photos/2026/08/MTV.Hustle.jpg" group-title="Latest Movie", MTV Hustle S05E12 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://krtyhg.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]MTV.Hustle.S05E12.720p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://krtyhg.b-cdn.net/upload/photos/2026/09/HAIWAAN-2026-Hindi.jpg" group-title="Latest Movie", Haiwaan (2026) Hindi HDTC 720p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://krtyhg.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Haiwaan.(2026).Hindi.HDTC.720p.mkv
