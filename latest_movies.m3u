@@ -1,5 +1,20 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://krtyhg.b-cdn.net/upload/photos/2026/08/Lanterns.jpg" group-title="Latest Movie", Lanterns S01E05 Dual 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://krtyhg.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Lanterns.S01E05.Dual.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://krtyhg.b-cdn.net/upload/photos/2026/07/Dadagiri.Unlimited.jpg" group-title="Latest Movie", Dadagiri Unlimited S11E21 1080P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://krtyhg.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Dadagiri.Unlimited.S11E21.1080P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://krtyhg.b-cdn.net/upload/photos/2026/08/Khatron.Ke.Khiladi.jpg" group-title="Latest Movie", Khatron Ke Khiladi (2026) S15E14 720P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://krtyhg.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Khatron.Ke.Khiladi.(2026).S15E14.720P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://krtyhg.b-cdn.net/upload/photos/2026/09/A.Love.Other.than.Yours.S01.jpg" group-title="Latest Movie", A Love Other than Yours S01E02 Multi Audio 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://krtyhg.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]A.Love.Other.than.Yours.S01E02.Multi.Audio.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://krtyhg.b-cdn.net/upload/photos/2026/08/Bigg.Boss.(2026).S01.Bengali.jpg" group-title="Latest Movie", Bigg Boss S01E15 Bengali 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://krtyhg.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Bigg.Boss.S01E15.Bengali.720p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://krtyhg.b-cdn.net/upload/photos/2026/09/Hen.(2025).Hindi.Dubbed.jpg" group-title="Latest Movie", Hen 2025 Dual 1080p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://krtyhg.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Hen.2025.Dual.1080p.mkv
