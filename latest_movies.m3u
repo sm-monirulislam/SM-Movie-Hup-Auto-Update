@@ -1,5 +1,23 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://qerth.b-cdn.net/upload/photos/2026/09/My.Best.Friends.Wedding.(1997).Hindi.Dubbed.jpg" group-title="Latest Movie", My Best Friends Wedding 1997 Dual 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://qerth.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]My.Best.Friends.Wedding.1997.Dual.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://qerth.b-cdn.net/upload/photos/2026/09/Bombaiyer.Bombete.(2003).Bengali.jpg" group-title="Latest Movie", Bombaiyer Bombete (2003) Bengali 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://qerth.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Bombaiyer.Bombete.(2003).Bengali.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://qerth.b-cdn.net/upload/photos/2025/06/Raas.2025.Bengali.jpg" group-title="Latest Movie", Raas (2025) Bengali HDTV-Rip 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://qerth.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Raas.(2025).Bengali.HDTV-Rip.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://qerth.b-cdn.net/upload/photos/2026/09/Vengeance.(2026).jpg" group-title="Latest Movie", Vengeance (2026) Tamil 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://qerth.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Vengeance.(2026).Tamil.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://qerth.b-cdn.net/upload/photos/2026/09/Bahurup.(2025).Bengali.jpg" group-title="Latest Movie", Bahurup (2025) Bengali 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://qerth.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Bahurup.(2025).Bengali.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://qerth.b-cdn.net/upload/photos/2026/09/Vivaah.(2026).jpg" group-title="Latest Movie", Vivaah (2026) Malayalam 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://qerth.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Vivaah.(2026).Malayalam.720p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://qerth.b-cdn.net/upload/photos/2026/08/The.End.of.Oak.Street.(2026).Hindi.Dubbed.jpg" group-title="Latest Movie", The End of Oak Street (2026) Hindi LiNE-English 720P
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://qerth.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]The.End.of.Oak.Street.(2026).Hindi.LiNE-English.720P.mkv
