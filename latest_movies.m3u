@@ -1,5 +1,32 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://eghjm.b-cdn.net/upload/photos/2026/09/Bigg Boss.S20.jpg" group-title="Latest Movie", Bigg Boss S20E11 Hindi 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://eghjm.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Bigg.Boss.S20E11.Hindi.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://eghjm.b-cdn.net/upload/photos/2026/09/dark.2026.jpg" group-title="Latest Movie", Dark (2026) Dual 480P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://eghjm.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Dark.(2026).Dual.480P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://eghjm.b-cdn.net/upload/photos/2026/09/Crime.Patrol.jpg" group-title="Latest Movie", Crime Patrol (2026) S01E11 1080P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://eghjm.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Crime.Patrol.(2026).S01E11.1080P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://eghjm.b-cdn.net/upload/photos/2026/09/Sultana.jpg" group-title="Latest Movie", Sultana (2026) Dual 720P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://eghjm.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Sultana.(2026).Dual.720P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://eghjm.b-cdn.net/upload/photos/2026/09/Bahurup.(2025).Bengali.jpg" group-title="Latest Movie", Bahurup (2025) Bengali 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://eghjm.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Bahurup.(2025).Bengali.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://eghjm.b-cdn.net/upload/photos/2026/09/Deep.Murder.(2019).Hindi.Dubbed.jpg" group-title="Latest Movie", Deep Murder (2019) Dual 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://eghjm.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Deep.Murder.(2019).Dual.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://eghjm.b-cdn.net/upload/photos/2026/08/Amidst.A.Snowstorm.Of.Love.jpg" group-title="Latest Movie", Amidst A Snowstorm Of Love S01E16-20 720P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://eghjm.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Amidst.A.Snowstorm.Of.Love.S01E16-20.720P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://eghjm.b-cdn.net/upload/photos/2026/09/Vidrohi.(2025).Hindi.Dubbed.jpg" group-title="Latest Movie", Vidrohi (2025) Hindi Dubbed 480p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://eghjm.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Vidrohi.(2025).Hindi.Dubbed.480p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://eghjm.b-cdn.net/upload/photos/2026/09/Drinker.Sai.(2024).Hindi.Dubbed.jpg" group-title="Latest Movie", Drinker Sai (2024) Dual 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://eghjm.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Drinker.Sai.(2024).Dual.720p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://eghjm.b-cdn.net/upload/photos/2026/09/neagley.jpg" group-title="Latest Movie", Neagley (2026) S01E05-08 Dual 720P
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://eghjm.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Neagley.(2026).S01E05-08.Dual.720P.mkv
