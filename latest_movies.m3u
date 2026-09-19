@@ -1,5 +1,23 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://afghbn.b-cdn.net/upload/photos/2026/09/Seven.Snipers.jpg" group-title="Latest Movie", Seven Snipers (2026) Dual 480P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://afghbn.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Seven.Snipers.(2026).Dual.480P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://afghbn.b-cdn.net/upload/photos/2026/06/Indias.Best.Dancer.S05.jpg" group-title="Latest Movie", Indias Best Dancer S05E31 720P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://afghbn.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Indias.Best.Dancer.S05E31.720P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://afghbn.b-cdn.net/upload/photos/2026/08/Ananta.Bhalobasha.S01.Bangla.Dubbed.jpg" group-title="Latest Movie", Ananta Bhalobasha S01E30 Bangla Dubbed 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://afghbn.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Ananta.Bhalobasha.S01E30.Bangla.Dubbed.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://afghbn.b-cdn.net/upload/photos/2026/09/Kenatha.Kanom.Bengali.jpg" group-title="Latest Movie", Kenatha Kanom (2026) Bangla Dubbed 1080P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://afghbn.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Kenatha.Kanom.(2026).Bangla.Dubbed.1080P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://afghbn.b-cdn.net/upload/photos/2026/09/Apollo.Has.Fallen.(2026).S01.jpg" group-title="Latest Movie", Apollo Has Fallen S01E01 Dual 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://afghbn.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Apollo.Has.Fallen.S01E01.Dual.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://afghbn.b-cdn.net/upload/photos/2026/09/The.Get.Out.jpg" group-title="Latest Movie", The Get Out 2026 Dual 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://afghbn.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]The.Get.Out.2026.Dual.720p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://afghbn.b-cdn.net/upload/photos/2026/09/The.Awakening.jpg" group-title="Latest Movie", The Awakening (2026) Hindi ORG 720P
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://afghbn.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]The.Awakening.(2026).Hindi.ORG.720P.mkv
