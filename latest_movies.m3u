@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://afghbn.b-cdn.net/upload/photos/2026/09/Seven.Snipers.jpg" group-title="Latest Movie", Seven Snipers (2026) Dual 1080P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://afghbn.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Seven.Snipers.(2026).Dual.1080P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://afghbn.b-cdn.net/upload/photos/2026/09/Resident.Evil.jpg" group-title="Latest Movie", Resident Evil (2026) Dual HDTC 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://afghbn.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Resident.Evil.(2026).Dual.HDTC.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://afghbn.b-cdn.net/upload/photos/2026/08/eenage.Sex.and.Death.at.Camp.Miasma.(2026).jpg" group-title="Latest Movie", Teenage Sex and Death at Camp Miasma (2026) English 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://afghbn.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Teenage.Sex.and.Death.at.Camp.Miasma.(2026).English.1080p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://afghbn.b-cdn.net/upload/photos/2026/09/Seven.Snipers.jpg" group-title="Latest Movie", Seven Snipers (2026) Dual 480P
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://afghbn.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Seven.Snipers.(2026).Dual.480P.mkv
