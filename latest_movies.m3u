@@ -1,5 +1,23 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://fertgv.b-cdn.net/upload/photos/2026/08/Khatron.Ke.Khiladi.jpg" group-title="Latest Movie", Khatron Ke Khiladi (2026) S15E15 1080P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://fertgv.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Khatron.Ke.Khiladi.(2026).S15E15.1080P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://fertgv.b-cdn.net/upload/photos/2026/08/One.Night.Only.jpg" group-title="Latest Movie", One Night Only (2026) Dual 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://fertgv.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]One.Night.Only.(2026).Dual.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://fertgv.b-cdn.net/upload/photos/2026/09/The.Darkest.Minds.(2018).Hindi.Dubbed.jpg" group-title="Latest Movie", The Darkest Minds (2018) Dual 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://fertgv.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]The.Darkest.Minds.(2018).Dual.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://fertgv.b-cdn.net/upload/photos/2026/08/Bigg.Boss.(2026).S01.Bengali.jpg" group-title="Latest Movie", Bigg Boss S01E22 Bengali 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://fertgv.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Bigg.Boss.S01E22.Bengali.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://fertgv.b-cdn.net/upload/photos/2026/07/Dadagiri.Unlimited.jpg" group-title="Latest Movie", Dadagiri Unlimited S11E23 1080P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://fertgv.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Dadagiri.Unlimited.S11E23.1080P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://fertgv.b-cdn.net/upload/photos/2026/09/Bigg Boss.S20.jpg" group-title="Latest Movie", Bigg Boss S20E15 Hindi 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://fertgv.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Bigg.Boss.S20E15.Hindi.1080p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://fertgv.b-cdn.net/upload/photos/2026/08/Ananta.Bhalobasha.S01.Bangla.Dubbed.jpg" group-title="Latest Movie", Ananta Bhalobasha S01E31 Bangla Dubbed 720p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://fertgv.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Ananta.Bhalobasha.S01E31.Bangla.Dubbed.720p.mkv
