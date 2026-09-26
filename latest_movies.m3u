@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://idfgbn.b-cdn.net/upload/photos/2026/09/The.Vvaan.(2026).Hindi.jpg" group-title="Latest Movie", The Vvaan (2026) Hindi HDTC 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://idfgbn.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]The.Vvaan.(2026).Hindi.HDTC.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://idfgbn.b-cdn.net/upload/photos/2026/09/Jodi.Emon.Hoto.(2025).Bengali.jpg" group-title="Latest Movie", Jodi Emon Hoto (2025) Bengali 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://idfgbn.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Jodi.Emon.Hoto.(2025).Bengali.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://idfgbn.b-cdn.net/upload/photos/2026/08/Ananta.Bhalobasha.S01.Bangla.Dubbed.jpg" group-title="Latest Movie", Ananta Bhalobasha S01E37 Bangla Dubbed 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://idfgbn.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Ananta.Bhalobasha.S01E37.Bangla.Dubbed.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://idfgbn.b-cdn.net/upload/photos/2026/09/Shuvo.Kaje.Deri.Korte.Nei.2026.Bangla.jpg" group-title="Latest Movie", Shuvo Kaje Deri Korte Nei (2026) Bengali 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://idfgbn.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Shuvo.Kaje.Deri.Korte.Nei.(2026).Bengali.1080p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://idfgbn.b-cdn.net/upload/photos/2026/09/Imaikkaa.Nodigal.Mrittur.Karigor.jpg" group-title="Latest Movie", Imaikkaa Nodigal Mrittur Karigor (2026) Bengali 720P
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://idfgbn.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Imaikkaa.Nodigal.Mrittur.Karigor.(2026).Bengali.720P.mkv
