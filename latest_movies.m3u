@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://tdfvbmh.b-cdn.net/upload/photos/2026/08/Bigg.Boss.(2026).S01.Bengali.jpg" group-title="Latest Movie", Bigg Boss S01E29 Bengali 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://tdfvbmh.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Bigg.Boss.S01E29.Bengali.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://tdfvbmh.b-cdn.net/upload/photos/2026/09/The.Punisher.S01.Hindi.Dubbed.jpg" group-title="Latest Movie", The Punisher S01E02 Dual Hindi HQ 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://tdfvbmh.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]The.Punisher.S01E02.Dual.Hindi.HQ.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://tdfvbmh.b-cdn.net/upload/photos/2026/07/Star.Trek.Strange.New.Worlds.S04.jpg" group-title="Latest Movie", Star Trek Strange New Worlds S04E10 Dual 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://tdfvbmh.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Star.Trek.Strange.New.Worlds.S04E10.Dual.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://tdfvbmh.b-cdn.net/upload/photos/2026/09/The.Punisher.S01.Hindi.Dubbed.jpg" group-title="Latest Movie", The Punisher S01E01 Dual Hindi HQ 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://tdfvbmh.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]The.Punisher.S01E01.Dual.Hindi.HQ.1080p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://tdfvbmh.b-cdn.net/upload/photos/2026/08/Ananta.Bhalobasha.S01.Bangla.Dubbed.jpg" group-title="Latest Movie", Ananta Bhalobasha S01E38 Bangla Dubbed 720p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://tdfvbmh.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Ananta.Bhalobasha.S01E38.Bangla.Dubbed.720p.mkv
