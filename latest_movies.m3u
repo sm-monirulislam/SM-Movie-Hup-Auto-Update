@@ -1,5 +1,38 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://lrtyhj.b-cdn.net/upload/photos/2026/09/India.Ke.Top.1.parcent.jpg" group-title="Latest Movie", India Ke Top 1 parcent S01E07 720P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://lrtyhj.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]India.Ke.Top.1.parcent.S01E07.720P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://lrtyhj.b-cdn.net/upload/photos/2026/10/You.Me.&.Tuscany.(2026).Hindi.Dubbed.jpg" group-title="Latest Movie", You Me & Tuscany (2026) Dual 480p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://lrtyhj.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]You.Me.&.Tuscany.(2026).Dual.480p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://lrtyhj.b-cdn.net/upload/photos/2026/08/MTV.Hustle.jpg" group-title="Latest Movie", MTV Hustle S05E20 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://lrtyhj.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]MTV.Hustle.S05E20.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://lrtyhj.b-cdn.net/upload/photos/2026/08/108.Base.Hospital.Uri.jpg" group-title="Latest Movie", 108 Base Hospital Uri S01E13-17 720P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://lrtyhj.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]108.Base.Hospital.Uri.S01E13-17.720P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://lrtyhj.b-cdn.net/upload/photos/2026/08/Ananta.Bhalobasha.S01.Bangla.Dubbed.jpg" group-title="Latest Movie", Ananta Bhalobasha S01E50 Bangla Dubbed 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://lrtyhj.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ananta.Bhalobasha.S01E50.Bangla.Dubbed.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://lrtyhj.b-cdn.net/upload/photos/2026/09/Sa.Re.Ga.Ma.Pa.Hindi.S01.jpg" group-title="Latest Movie", Sa Re Ga Ma Pa (2026) S01E07 Hindi 720P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://lrtyhj.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Sa.Re.Ga.Ma.Pa.(2026).S01E07.Hindi.720P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://lrtyhj.b-cdn.net/upload/photos/2026/07/Dadagiri.Unlimited.jpg" group-title="Latest Movie", Dadagiri Unlimited S11E29 1080P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://lrtyhj.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Dadagiri.Unlimited.S11E29.1080P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://lrtyhj.b-cdn.net/upload/photos/2026/08/Bigg.Boss.(2026).S01.Bengali.jpg" group-title="Latest Movie", Bigg Boss S01E43 Bengali 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://lrtyhj.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S01E43.Bengali.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://lrtyhj.b-cdn.net/upload/photos/2026/10/Dhamaal.with.Pati.Patni.Aur.Panga.jpg" group-title="Latest Movie", Dhamaal with Pati Patni Aur Panga (2026) S02E02 1080P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://lrtyhj.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Dhamaal.with.Pati.Patni.Aur.Panga.(2026).S02E02.1080P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://lrtyhj.b-cdn.net/upload/photos/2026/09/A.Love.Other.than.Yours.S01.jpg" group-title="Latest Movie", A Love Other than Yours S01E08 Multi Audio 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://lrtyhj.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]A.Love.Other.than.Yours.S01E08.Multi.Audio.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://lrtyhj.b-cdn.net/upload/photos/2026/10/Reporting-Live-2026-Hindi.jpg" group-title="Latest Movie", Reporting Live (2026) Hindi 480p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://lrtyhj.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Reporting.Live.(2026).Hindi.480p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://lrtyhj.b-cdn.net/upload/photos/2026/08/108.Base.Hospital.Uri.jpg" group-title="Latest Movie", 108 Base Hospital Uri S01E13-17 1080P
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://lrtyhj.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]108.Base.Hospital.Uri.S01E13-17.1080P.mkv
