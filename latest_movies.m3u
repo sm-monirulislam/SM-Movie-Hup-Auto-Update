@@ -1,5 +1,20 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://xfghn.b-cdn.net/upload/photos/2026/10/Shesh.Thikana.jpg" group-title="Latest Movie", Shesh Thikana (2026) 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://xfghn.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Shesh.Thikana.(2026).1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://xfghn.b-cdn.net/upload/photos/2025/08/Weapons.jpeg" group-title="Latest Movie", Weapons (2025) Dual Audio Hindi HQ-English 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://xfghn.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Weapons.(2025).Dual.Audio.Hindi.HQ-English.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://xfghn.b-cdn.net/upload/photos/2026/08/Bigg.Boss.(2026).S01.Bengali.jpg" group-title="Latest Movie", Bigg Boss S01E45 Bengali 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://xfghn.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S01E45.Bengali.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://xfghn.b-cdn.net/upload/photos/2026/10/VisionQuest.S01.Hindi.Dubbed.jpg" group-title="Latest Movie", VisionQuest S01E02 Dual 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://xfghn.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]VisionQuest.S01E02.Dual.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://xfghn.b-cdn.net/upload/photos/2026/10/VisionQuest.S01.Hindi.Dubbed.jpg" group-title="Latest Movie", VisionQuest S01E01 Dual 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://xfghn.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]VisionQuest.S01E01.Dual.720p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://xfghn.b-cdn.net/upload/photos/2026/10/Dhamaal.with.Pati.Patni.Aur.Panga.jpg" group-title="Latest Movie", Dhamaal with Pati Patni Aur Panga (2026) S02E01 720P
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://xfghn.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Dhamaal.with.Pati.Patni.Aur.Panga.(2026).S02E01.720P.mkv
