@@ -1,5 +1,29 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://crtgh.b-cdn.net/upload/photos/2026/08/Bigg.Boss.(2026).S01.Bengali.jpg" group-title="Latest Movie", Bigg Boss S01E46 Bengali 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://crtgh.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S01E46.Bengali.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://crtgh.b-cdn.net/upload/photos/2026/10/Koffee.with.Karan.jpg" group-title="Latest Movie", Koffee with Karan (2026) S09E01 1080P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://crtgh.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Koffee.with.Karan.(2026).S09E01.1080P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://crtgh.b-cdn.net/upload/photos/2026/10/Birangana.S02.jpg" group-title="Latest Movie", Birangana (2026) S02 Bengali 480P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://crtgh.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Birangana.(2026).S02.Bengali.480P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://crtgh.b-cdn.net/upload/photos/2026/09/Bigg Boss.S20.jpg" group-title="Latest Movie", Bigg Boss S20E39 Hindi 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://crtgh.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S20E39.Hindi.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://crtgh.b-cdn.net/upload/photos/2026/10/Enna.Vilai.jpg" group-title="Latest Movie", Enna Vilai (2026) Dual 480P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://crtgh.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Enna.Vilai.(2026).Dual.480P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://crtgh.b-cdn.net/upload/photos/2026/10/Zip.Wire.jpg" group-title="Latest Movie", Zip Wire (2026) Dual 480P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://crtgh.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Zip.Wire.(2026).Dual.480P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://crtgh.b-cdn.net/upload/photos/2026/09/Hope.(2026).jpg" group-title="Latest Movie", Hope (2026) Korean 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://crtgh.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Hope.(2026).Korean.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://crtgh.b-cdn.net/upload/photos/2026/10/The-Trap-2026-S01.jpg" group-title="Latest Movie", The Trap (2026) S01 Dual 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://crtgh.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Trap.(2026).S01.Dual.1080p.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://crtgh.b-cdn.net/upload/photos/2026/08/Sultan.Salahuddin.Ayyubi.jpg" group-title="Latest Movie", Sultan Salahuddin Ayyubi S01E54 720p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://crtgh.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Sultan.Salahuddin.Ayyubi.S01E54.720p.mkv
