@@ -1,5 +1,26 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://lrtyuh.b-cdn.net/upload/photos/2026/10/Blue.(2026).Hindi.Dubbed.jpg" group-title="Latest Movie", Blue (2026) Dual 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://lrtyuh.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Blue.(2026).Dual.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://lrtyuh.b-cdn.net/upload/photos/2026/10/Amanush.(2026).S01.jpg" group-title="Latest Movie", Amanush (2026) S01 Bengali 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://lrtyuh.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Amanush.(2026).S01.Bengali.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://lrtyuh.b-cdn.net/upload/photos/2026/09/Prince-of-Mollywood-S01.jpg" group-title="Latest Movie", Prince of Mollywood S01E21-24 Dual 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://lrtyuh.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Prince.of.Mollywood.S01E21-24.Dual.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://lrtyuh.b-cdn.net/upload/photos/2026/09/MobLand.S02.jpg" group-title="Latest Movie", MobLand S02E05 Dual 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://lrtyuh.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]MobLand.S02E05.Dual.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://lrtyuh.b-cdn.net/upload/photos/2026/10/MTV.Roadies.(2026).S21.jpg" group-title="Latest Movie", MTV Roadies (2026) S21E01 Hindi 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://lrtyuh.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]MTV.Roadies.(2026).S21E01.Hindi.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://lrtyuh.b-cdn.net/upload/photos/2026/01/gopal.bhar.jpg" group-title="Latest Movie", Gopal Bhar S13E1293
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://lrtyuh.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Gopal.Bhar.S13E1293.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://lrtyuh.b-cdn.net/upload/photos/2026/01/gopal.bhar.jpg" group-title="Latest Movie", Gopal Bhar S13E1292
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://lrtyuh.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Gopal.Bhar.S13E1292.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://lrtyuh.b-cdn.net/upload/photos/2026/10/Blue.(2026).Hindi.Dubbed.jpg" group-title="Latest Movie", Blue (2026) Dual 1080p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://lrtyuh.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Blue.(2026).Dual.1080p.mkv
