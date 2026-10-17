@@ -1,5 +1,20 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://kertyyg.b-cdn.net/upload/photos/2026/10/Make.Me.Tingle.(2026).S01.jpg" group-title="Latest Movie", Make Me Tingle S01E01-04 Dual 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://kertyyg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Make.Me.Tingle.S01E01-04.Dual.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://kertyyg.b-cdn.net/upload/photos/2026/08/Ananta.Bhalobasha.S01.Bangla.Dubbed.jpg" group-title="Latest Movie", Ananta Bhalobasha S01E55 Bangla Dubbed 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://kertyyg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ananta.Bhalobasha.S01E55.Bangla.Dubbed.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://kertyyg.b-cdn.net/upload/photos/2026/09/Rise.And.Fall.S02.jpg" group-title="Latest Movie", Rise And Fall S02E22 720P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://kertyyg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Rise.And.Fall.S02E22.720P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://kertyyg.b-cdn.net/upload/photos/2026/09/Bigg Boss.S20.jpg" group-title="Latest Movie", Bigg Boss S20E42 Hindi 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://kertyyg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S20E42.Hindi.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://kertyyg.b-cdn.net/upload/photos/2026/07/Dadagiri.Unlimited.jpg" group-title="Latest Movie", Dadagiri Unlimited S11E30 720P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://kertyyg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Dadagiri.Unlimited.S11E30.720P.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://kertyyg.b-cdn.net/upload/photos/2026/10/The.Punisher.S02.Hindi.Dubbed.jpg" group-title="Latest Movie", The Punisher S02E03 Dual Hindi HQ 720p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://kertyyg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Punisher.S02E03.Dual.Hindi.HQ.720p.mkv
