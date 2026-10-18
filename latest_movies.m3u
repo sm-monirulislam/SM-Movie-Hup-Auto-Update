@@ -1,5 +1,20 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://jertgf.b-cdn.net/upload/photos/2026/09/A.Love.Other.than.Yours.S01.jpg" group-title="Latest Movie", A Love Other than Yours S01E09 Multi Audio 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://jertgf.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]A.Love.Other.than.Yours.S01E09.Multi.Audio.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://jertgf.b-cdn.net/upload/photos/2026/09/India.Ke.Top.1.parcent.jpg" group-title="Latest Movie", India Ke Top 1 parcent S01E09 1080P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://jertgf.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]India.Ke.Top.1.parcent.S01E09.1080P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://jertgf.b-cdn.net/upload/photos/2026/09/Bigg Boss.S20.jpg" group-title="Latest Movie", Bigg Boss S20E42 Hindi 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://jertgf.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S20E42.Hindi.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://jertgf.b-cdn.net/upload/photos/2026/10/Dhamaal.with.Pati.Patni.Aur.Panga.jpg" group-title="Latest Movie", Dhamaal with Pati Patni Aur Panga (2026) S02E03 720P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://jertgf.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Dhamaal.with.Pati.Patni.Aur.Panga.(2026).S02E03.720P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://jertgf.b-cdn.net/upload/photos/2026/09/Sa.Re.Ga.Ma.Pa.Hindi.S01.jpg" group-title="Latest Movie", Sa Re Ga Ma Pa (2026) S01E09 Hindi 1080P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://jertgf.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Sa.Re.Ga.Ma.Pa.(2026).S01E09.Hindi.1080P.mkv
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://jertgf.b-cdn.net/upload/photos/2026/10/Masterplan-Hindi-Dubbed.jpg" group-title="Latest Movie", Masterplan (2026) Dual 720p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://jertgf.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Masterplan.(2026).Dual.720p.mkv
