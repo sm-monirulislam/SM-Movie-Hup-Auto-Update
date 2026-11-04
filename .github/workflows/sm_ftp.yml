@@ -21,7 +21,7 @@ jobs:
           python-version: "3.10"
 
       - name: Install Dependencies
-        run: pip install requests beautifulsoup4
+        run: pip install requests beautifulsoup4 pytz
 
       - name: Fetch Python Script from Private Repo
         env:
