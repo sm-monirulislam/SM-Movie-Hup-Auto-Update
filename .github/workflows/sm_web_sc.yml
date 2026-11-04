@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   workflow_call:
   schedule:
-    - cron: '0 */3 * * *' # প্রতি ৩ ঘণ্টা পরপর অটো রান হবে চাইলে রাখতে পারেন
+    - cron: '0 0 * * *'
 
 permissions:
   contents: write
