@@ -2,7 +2,11 @@ name: Generate FTP Movie Playlist
 
 on:
   workflow_dispatch:
+
   workflow_call:
+
+  schedule:
+    - cron: '0 */20 * * *'
 
 permissions:
   contents: write
@@ -21,7 +25,8 @@ jobs:
           python-version: "3.10"
 
       - name: Install Dependencies
-        run: pip install requests beautifulsoup4 pytz
+        run: |
+          pip install requests beautifulsoup4 pytz
 
       - name: Fetch Python Script from Private Repo
         env:
@@ -36,12 +41,16 @@ jobs:
         run: python sm_ftp_server.py
 
       - name: Remove Python Script
+        if: always()
         run: rm -f sm_ftp_server.py
 
       - name: Commit and Push Playlist
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add ftp_movie.m3u
+
           git diff --cached --quiet || git commit -m "Update FTP movie playlist"
+
           git push
